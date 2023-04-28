@@ -1,7 +1,14 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 
-const SwithLang = () => {
+const SwithLang = ({ strings }) => {
   const [active, setActive] = useState(false);
+
+  useEffect(() => {
+    setActive(strings.getLanguage() === "en");
+  }, []);
+  useEffect(() => {
+    strings.setLanguage(active ? "en" : "jp");
+  }, [active]);
 
   return (
     <div className={`switchLang ${active ? "active" : ""}`}>
