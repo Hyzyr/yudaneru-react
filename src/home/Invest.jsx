@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 const Invest = ({ strings }) => {
   return (
@@ -14,9 +15,9 @@ const Invest = ({ strings }) => {
                 {strings["item-1"].titleBr}
               </h4>
               <p>{strings["item-1"].paragraph}</p>
-              <a href="#" className="button button--border">
+              <Link to="/contact-us" className="button button--border">
                 {strings["item-1"].button}
-              </a>
+              </Link>
             </div>
             <div className="gridItem">
               <h4>
@@ -25,9 +26,9 @@ const Invest = ({ strings }) => {
                 {strings["item-2"].titleBr}
               </h4>
               <p>{strings["item-2"].paragraph}</p>
-              <a href="#" className="button button--border">
+              <Link to="/contact-us" className="button button--border">
                 {strings["item-2"].button}
-              </a>
+              </Link>
             </div>
             <div className="gridItem">
               <h4>
@@ -36,9 +37,9 @@ const Invest = ({ strings }) => {
                 {strings["item-3"].titleBr}
               </h4>
               <p>{strings["item-3"].paragraph}</p>
-              <a href="#" className="button button--border">
+              <Link to="/contact-us" className="button button--border">
                 {strings["item-3"].button}
-              </a>
+              </Link>
             </div>
           </div>
         </div>

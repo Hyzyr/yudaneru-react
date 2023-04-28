@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 const Hero = ({ strings }) => {
   return (
@@ -9,7 +10,9 @@ const Hero = ({ strings }) => {
             <strong>{strings.caption}</strong>
             <h1>{strings.title}</h1>
             <p>{strings.paragraph}</p>
-            <button className="button button--primary">{strings.button}</button>
+            <Link to="/contact-us" className="button button--primary">
+              {strings.button}
+            </Link>
           </div>
           <div className="hero__inner-banner">
             <div className="hero__banner">
