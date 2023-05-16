@@ -17,15 +17,11 @@ const Contact = ({ strings }) => {
               <ul>
                 <li>
                   <span>{mapPinSVG}</span>
-                  <p>34 Street Name, City Name Here, United States.</p>
-                </li>
-                <li>
-                  <span>{phoneSVG}</span>
-                  <p>+1 (222) 345 6789</p>
+                  <p>{infoString.location}</p>
                 </li>
                 <li>
                   <span>{mailSVG}</span>
-                  <p>info@mywebsite.com</p>
+                  <p>info@yudaneru.co.jp </p>
                 </li>
               </ul>
             </div>

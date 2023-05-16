@@ -1,5 +1,5 @@
 import React from "react";
-import { faceBook2SVG, insta2SVG, twitterSVG } from "../components/SVG";
+import {  insta2SVG, twitter, linkedinSvg } from "../components/SVG";
 
 const Team = ({ strings }) => {
   return (
@@ -21,14 +21,9 @@ const Team = ({ strings }) => {
                 </div>
                 <div className="gridItem__info-social">
                   <a href="#" className="button button--icon smIcon">
-                    {faceBook2SVG}
+                    {linkedinSvg}
                   </a>
-                  <a href="#" className="button button--icon smIcon">
-                    {twitterSVG}
-                  </a>
-                  <a href="#" className="button button--icon smIcon">
-                    {insta2SVG}
-                  </a>
+                 
                 </div>
               </div>
             </div>
@@ -45,14 +40,9 @@ const Team = ({ strings }) => {
                 </div>
                 <div className="gridItem__info-social">
                   <a href="#" className="button button--icon smIcon">
-                    {faceBook2SVG}
+                    {linkedinSvg}
                   </a>
-                  <a href="#" className="button button--icon smIcon">
-                    {twitterSVG}
-                  </a>
-                  <a href="#" className="button button--icon smIcon">
-                    {insta2SVG}
-                  </a>
+                 
                 </div>
               </div>
             </div>
@@ -69,14 +59,9 @@ const Team = ({ strings }) => {
                 </div>
                 <div className="gridItem__info-social">
                   <a href="#" className="button button--icon smIcon">
-                    {faceBook2SVG}
+                    {linkedinSvg}
                   </a>
-                  <a href="#" className="button button--icon smIcon">
-                    {twitterSVG}
-                  </a>
-                  <a href="#" className="button button--icon smIcon">
-                    {insta2SVG}
-                  </a>
+                 
                 </div>
               </div>
             </div>
@@ -93,14 +78,9 @@ const Team = ({ strings }) => {
                 </div>
                 <div className="gridItem__info-social">
                   <a href="#" className="button button--icon smIcon">
-                    {faceBook2SVG}
+                    {linkedinSvg}
                   </a>
-                  <a href="#" className="button button--icon smIcon">
-                    {twitterSVG}
-                  </a>
-                  <a href="#" className="button button--icon smIcon">
-                    {insta2SVG}
-                  </a>
+                 
                 </div>
               </div>
             </div>
@@ -117,38 +97,9 @@ const Team = ({ strings }) => {
                 </div>
                 <div className="gridItem__info-social">
                   <a href="#" className="button button--icon smIcon">
-                    {faceBook2SVG}
+                    {linkedinSvg}
                   </a>
-                  <a href="#" className="button button--icon smIcon">
-                    {twitterSVG}
-                  </a>
-                  <a href="#" className="button button--icon smIcon">
-                    {insta2SVG}
-                  </a>
-                </div>
-              </div>
-            </div>
-            <div className="gridItem">
-              <div className="gridItem__image">
-                <div className="ratioImage">
-                  <img src="/images/team/team-6.png" alt="" />
-                </div>
-              </div>
-              <div className="gridItem__info">
-                <div className="gridItem__info-text">
-                  <h4>{strings["item-6"].name}</h4>
-                  <p className="_sm">{strings["item-6"].job}</p>
-                </div>
-                <div className="gridItem__info-social">
-                  <a href="#" className="button button--icon smIcon">
-                    {faceBook2SVG}
-                  </a>
-                  <a href="#" className="button button--icon smIcon">
-                    {twitterSVG}
-                  </a>
-                  <a href="#" className="button button--icon smIcon">
-                    {insta2SVG}
-                  </a>
+                 
                 </div>
               </div>
             </div>

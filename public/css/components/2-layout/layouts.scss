@@ -69,6 +69,13 @@
   }
   &--team {
     padding: 120px 0;
+    .grid {
+      &__inner {
+        &-row {
+          justify-content: space-evenly;
+        }
+      }
+    }
   }
   &--service {
     padding: 120px 0;
@@ -147,6 +154,7 @@
           color: $primary;
           font-weight: 700;
           margin-bottom: 8px;
+          @include ellipsis;
         }
       }
     }
@@ -321,6 +329,10 @@
         strong {
           font-weight: 500;
         }
+        span {
+          padding-left: 1.5em;
+          display: block;
+        }
       }
       h4 {
         margin-top: 8px;
@@ -345,6 +357,16 @@
           position: absolute;
           top: 13px;
           left: 14px;
+        }
+      }
+      .list {
+        &--nonePagination {
+          gap: 10px;
+          li {
+            &::before {
+              display: none;
+            }
+          }
         }
       }
     }
@@ -777,6 +799,13 @@
     }
     &--team {
       padding: 60px 0;
+      .grid {
+        &__inner {
+          &-row {
+            justify-content: flex-start;
+          }
+        }
+      }
     }
     &--service {
       padding: 60px 0;

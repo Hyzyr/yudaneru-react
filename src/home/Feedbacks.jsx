@@ -39,19 +39,16 @@ const Feedbacks = ({ strings }) => {
               <SwiperSlide>
                 <div className="feedbacks__slider-item">
                   <p>“{strings["item-1"].paragraph}”</p>
-                  <div className="feedbacks__slider-item-ico">{fortuneSVG}</div>
                 </div>
               </SwiperSlide>
               <SwiperSlide>
                 <div className="feedbacks__slider-item">
                   <p>“{strings["item-2"].paragraph}”</p>
-                  <div className="feedbacks__slider-item-ico">{fortuneSVG}</div>
                 </div>
               </SwiperSlide>
               <SwiperSlide>
                 <div className="feedbacks__slider-item">
                   <p>“{strings["item-3"].paragraph}”</p>
-                  <div className="feedbacks__slider-item-ico">{fortuneSVG}</div>
                 </div>
               </SwiperSlide>
             </Swiper>

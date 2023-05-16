@@ -86,22 +86,6 @@ const Overview = ({ strings }) => {
                 <p>{strings["item-8"].paragraph}</p>
               </div>
             </div>
-            <div className="overview__inner-row">
-              <div className="overviewContent overviewContent--caption">
-                <h6 className="_sm">{strings["item-9"].title}</h6>
-              </div>
-              <div className="overviewContent">
-                <p>{strings["item-9"].paragraph}</p>
-              </div>
-            </div>
-            <div className="overview__inner-row">
-              <div className="overviewContent overviewContent--caption">
-                <h6 className="_sm">{strings["item-10"].title}</h6>
-              </div>
-              <div className="overviewContent">
-                <p>{strings["item-10"].paragraph}</p>
-              </div>
-            </div>
           </div>
         </div>
       </div>
