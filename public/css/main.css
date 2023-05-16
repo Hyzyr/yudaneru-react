@@ -404,11 +404,14 @@ svg {
   border-top: unset;
   -webkit-transition: max-height 0.3s ease, border-color 0s ease 0.3s, opacity 0.1s ease 0.2s;
   transition: max-height 0.3s ease, border-color 0s ease 0.3s, opacity 0.1s ease 0.2s;
-  scrollbar-width: none; /* Firefox 64 */
-  -ms-overflow-style: none; /* Internet Explorer 11 */
+  scrollbar-width: none;
+  /* Firefox 64 */
+  -ms-overflow-style: none;
+  /* Internet Explorer 11 */
   z-index: 1;
 }
-.input--select .input__dropdown::-webkit-scrollbar { /** WebKit */
+.input--select .input__dropdown::-webkit-scrollbar {
+  /** WebKit */
   display: none;
 }
 .input--select .input__dropdown-item {
@@ -1105,6 +1108,11 @@ svg {
 .grid--team {
   padding: 120px 0;
 }
+.grid--team .grid__inner-row {
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+}
 .grid--service {
   padding: 120px 0;
 }
@@ -1196,6 +1204,11 @@ svg {
   color: #32327c;
   font-weight: 700;
   margin-bottom: 8px;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 .grid--invest {
   background: #f7f7fa;
@@ -1404,6 +1417,10 @@ svg {
 .scrollContent__body p strong {
   font-weight: 500;
 }
+.scrollContent__body p span {
+  padding-left: 1.5em;
+  display: block;
+}
 .scrollContent__body h4 {
   margin-top: 8px;
 }
@@ -1433,6 +1450,12 @@ svg {
   position: absolute;
   top: 13px;
   left: 14px;
+}
+.scrollContent__body .list--nonePagination {
+  gap: 10px;
+}
+.scrollContent__body .list--nonePagination li::before {
+  display: none;
 }
 
 .hero {
@@ -1995,16 +2018,15 @@ svg {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
   gap: 56px 20px;
 }
 .partnersItem {
-  width: calc(33.3% - 15px);
-  max-width: 163px;
+  width: calc(50% - 20px);
 }
 .partnersItem .ratioImage {
   padding-bottom: 25%;
@@ -2234,6 +2256,7 @@ svg {
   h1 {
     font-size: 52px;
   }
+
   h2 {
     font-size: 45px;
   }
@@ -2245,24 +2268,29 @@ svg {
   .autoContainer {
     padding: 0 40px;
   }
+
   h1 {
     font-size: 46px;
   }
+
   h2 {
     font-size: 40px;
   }
   h2._sm {
     font-size: 38px;
   }
+
   h3 {
     font-size: 34px;
   }
+
   .scroll__inner-content {
     gap: 25px;
   }
   .scrollContent__body ul {
     gap: 25px;
   }
+
   .grid__inner-row {
     gap: 40px 30px;
     -webkit-box-pack: space-evenly;
@@ -2334,6 +2362,7 @@ svg {
   .grid p._sm {
     font-size: 13px;
   }
+
   .header {
     top: 20px;
   }
@@ -2346,6 +2375,7 @@ svg {
   .header + section {
     margin-top: 105px;
   }
+
   .hero {
     padding: 80px 0 100px 0;
   }
@@ -2360,9 +2390,11 @@ svg {
     width: calc(100% - 450px);
     max-width: 430px;
   }
+
   .heroTitle__inner {
     padding: 110px 0 40px 0;
   }
+
   .whyUs {
     padding: 100px 0;
   }
@@ -2375,6 +2407,7 @@ svg {
   .whyUs__list-item {
     font-size: 20px;
   }
+
   .feedbacks {
     padding: 100px 0;
   }
@@ -2390,6 +2423,7 @@ svg {
   .feedbacks__slider .swiper-arrow .custIcon {
     font-size: 0.6em;
   }
+
   .map__inner {
     padding: 100px 0;
   }
@@ -2407,21 +2441,26 @@ svg {
   body {
     font-size: 13px;
   }
+
   .autoContainer {
     padding: 0 30px;
   }
+
   h1 {
     font-size: 42px;
   }
+
   h2 {
     font-size: 36px;
   }
   h2._sm {
     font-size: 32px;
   }
+
   h3 {
     font-size: 32px;
   }
+
   .header__inner {
     -webkit-box-pack: justify;
         -ms-flex-pack: justify;
@@ -2437,6 +2476,7 @@ svg {
   .header + section {
     margin-top: 100px;
   }
+
   .nav {
     position: fixed;
     top: 0;
@@ -2534,6 +2574,7 @@ svg {
     -webkit-transform: translate(0);
             transform: translate(0);
   }
+
   .scroll {
     padding: 80px 0;
   }
@@ -2554,6 +2595,7 @@ svg {
   .scrollContent__body ul {
     gap: 20px;
   }
+
   .grid__inner-row {
     gap: 35px 25px;
   }
@@ -2638,18 +2680,22 @@ svg {
   .grid p._sm {
     font-size: 12px;
   }
+
   .button {
     font-size: 14px;
   }
+
   .footer__inner {
     padding: 80px 0;
   }
+
   .hero {
     padding: 60px 0 80px 0;
   }
   .whyUs {
     padding: 80px 0;
   }
+
   .feedbacks {
     padding: 80px 0;
   }
@@ -2662,12 +2708,14 @@ svg {
   .feedbacks__slider .swiper-arrow {
     font-size: 24px;
   }
+
   .overview {
     padding: 100px 0;
   }
   .overview__inner {
     gap: 45px;
   }
+
   .partners__inner {
     gap: 20px;
   }
@@ -2689,18 +2737,22 @@ svg {
   .autoContainer {
     padding: 0 25px;
   }
+
   h1 {
     font-size: 38px;
   }
+
   h3 {
     font-size: 28px;
   }
+
   h4 {
     font-size: 22px;
   }
   h4._sm {
     font-size: 20px;
   }
+
   .scroll__inner-tabs {
     width: 245px;
   }
@@ -2723,6 +2775,7 @@ svg {
   .scrollContent__body p._lg {
     font-size: 16px;
   }
+
   .grid__inner-row {
     gap: 25px 15px;
   }
@@ -2796,6 +2849,7 @@ svg {
   .grid h4 {
     font-size: 18px;
   }
+
   .footer__inner {
     padding: 60px 0;
     -ms-flex-wrap: wrap;
@@ -2809,6 +2863,7 @@ svg {
     width: 100%;
     max-width: 400px;
   }
+
   .hero {
     padding: 60px 0;
   }
@@ -2823,6 +2878,7 @@ svg {
     width: calc(100% - 370px);
     max-width: 350px;
   }
+
   .whyUs {
     padding: 60px 0;
   }
@@ -2866,6 +2922,7 @@ svg {
   .whyUs__banner-image._shape {
     display: none;
   }
+
   .feedbacks {
     padding: 60px 0;
   }
@@ -2885,6 +2942,7 @@ svg {
   .feedbacks__slider {
     width: 100%;
   }
+
   .overview {
     padding: 80px 0;
   }
@@ -2911,6 +2969,7 @@ svg {
     width: 14px;
     height: 14px;
   }
+
   .partners {
     padding: 80px 0;
   }
@@ -2918,6 +2977,7 @@ svg {
     width: calc(55% - 15px);
     gap: 30px 20px;
   }
+
   .roadmap {
     padding: 80px 0;
   }
@@ -2962,6 +3022,7 @@ svg {
     -webkit-transform: translateY(50%);
             transform: translateY(50%);
   }
+
   .map__inner {
     padding: 80px 0;
   }
@@ -2970,24 +3031,30 @@ svg {
   body {
     font-size: 12px;
   }
+
   .autoContainer {
     padding: 0 15px;
   }
+
   h1 {
     font-size: 36px;
   }
+
   h2 {
     font-size: 32px;
   }
   h2._sm {
     font-size: 28px;
   }
+
   h3 {
     font-size: 26px;
   }
+
   h4 {
     font-size: 20px;
   }
+
   .scroll {
     padding: 60px 0;
   }
@@ -3022,6 +3089,7 @@ svg {
   .scrollContent__body p._lg {
     font-size: 14px;
   }
+
   .grid__inner-row {
     gap: 20px;
   }
@@ -3033,6 +3101,11 @@ svg {
   }
   .grid--team {
     padding: 60px 0;
+  }
+  .grid--team .grid__inner-row {
+    -webkit-box-pack: start;
+        -ms-flex-pack: start;
+            justify-content: flex-start;
   }
   .grid--service {
     padding: 60px 0;
@@ -3091,6 +3164,7 @@ svg {
   .grid--selection .gridItem {
     width: calc(50% - 10px);
   }
+
   .header {
     top: 15px;
   }
@@ -3103,6 +3177,7 @@ svg {
   .header + section {
     margin-top: 90px;
   }
+
   .hero {
     padding: 40px 0;
   }
@@ -3130,6 +3205,7 @@ svg {
   .whyUs__banner {
     gap: 15px;
   }
+
   .feedbacks__inner-info {
     gap: 10px;
   }
@@ -3148,6 +3224,7 @@ svg {
   .feedbacks__slider .swiper-arrow-prev {
     left: -0.4em;
   }
+
   .partners {
     padding: 60px 0;
   }
@@ -3168,15 +3245,14 @@ svg {
   .partners__inner-text {
     max-width: 450px;
   }
-  .partnersItem {
-    max-width: 170px;
-  }
   .partnersItem .ratioImage {
     padding-bottom: 30%;
   }
+
   .roadmap {
     padding: 60px 0;
   }
+
   .map__inner {
     padding: 50% 0 60px 0;
   }
@@ -3231,6 +3307,7 @@ svg {
   .scrollContent__header.caption {
     margin-bottom: 25px;
   }
+
   .grid__inner-row {
     gap: 20px 15px;
   }
@@ -3281,9 +3358,11 @@ svg {
   .grid--selection .gridItem__info {
     padding: 15px;
   }
+
   .button {
     font-size: 12px;
   }
+
   .overview {
     padding: 60px 0;
   }
@@ -3301,21 +3380,25 @@ svg {
   ._hideMob {
     display: none;
   }
+
   h1 {
     font-size: 32px;
   }
+
   h2 {
     font-size: 32px;
   }
   h2._sm {
     font-size: 24px;
   }
+
   p {
     font-size: 14px;
   }
   p._lg {
     font-size: 16px;
   }
+
   .grid__inner-row {
     gap: 20px 10px;
   }
@@ -3381,6 +3464,7 @@ svg {
   .grid--selection .gridItem__info {
     padding: 15px;
   }
+
   .header {
     top: 10px;
   }
@@ -3396,6 +3480,7 @@ svg {
   .header.sticky .header__inner .logo {
     font-size: 12px;
   }
+
   .footer__inner-info {
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
@@ -3449,6 +3534,7 @@ svg {
             flex-direction: column-reverse;
     gap: 0.5em;
   }
+
   .whyUs__list {
     gap: 16px;
   }
@@ -3458,6 +3544,7 @@ svg {
   .whyUs__list-item h4 {
     font-size: 18px;
   }
+
   .overview {
     padding: 50px 0;
   }
@@ -3477,6 +3564,7 @@ svg {
         -ms-flex-pack: start;
             justify-content: flex-start;
   }
+
   .partners__inner-text {
     gap: 15px;
   }
@@ -3489,6 +3577,7 @@ svg {
   .partnersItem .ratioImage {
     padding-bottom: 30%;
   }
+
   .roadmap__inner-track {
     font-size: 18px;
     gap: 1em;
@@ -3496,6 +3585,7 @@ svg {
   .roadmap__item-content {
     margin-left: 1.4em;
   }
+
   .map__inner {
     padding: 70% 0 60px 0;
   }
@@ -3516,12 +3606,15 @@ svg {
   h1 {
     font-size: 32px;
   }
+
   h2 {
     font-size: 28px;
   }
+
   h3 {
     font-size: 22px;
   }
+
   .scroll__inner {
     gap: 20px;
   }
@@ -3548,6 +3641,7 @@ svg {
     width: 4px;
     height: 4px;
   }
+
   .grid__inner-row {
     gap: 20px;
   }
@@ -3577,6 +3671,7 @@ svg {
   .grid--service h4 br {
     display: none;
   }
+
   .overview__inner-content {
     overflow-x: scroll;
   }
@@ -3597,6 +3692,7 @@ svg {
         -ms-flex-pack: start;
             justify-content: flex-start;
   }
+
   .roadmap__inner-track {
     font-size: 16px;
   }

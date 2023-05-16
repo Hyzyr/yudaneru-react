@@ -9,7 +9,7 @@ const RoadLine = ({ strings }) => {
           <div className="roadmap__inner-track">
             <div className="roadmap__item">
               <div className="roadmap__item-badge">
-                <span>2019</span>
+                <span>2002</span>
               </div>
               <div className="roadmap__item-content">
                 <strong>{strings["item-1"].title}</strong>
@@ -18,7 +18,7 @@ const RoadLine = ({ strings }) => {
             </div>
             <div className="roadmap__item">
               <div className="roadmap__item-badge">
-                <span>2020</span>
+                <span>2008</span>
               </div>
               <div className="roadmap__item-content">
                 <strong>{strings["item-2"].title}</strong>
@@ -27,7 +27,7 @@ const RoadLine = ({ strings }) => {
             </div>
             <div className="roadmap__item">
               <div className="roadmap__item-badge">
-                <span>2021</span>
+                <span>2010</span>
               </div>
               <div className="roadmap__item-content">
                 <strong>{strings["item-3"].title}</strong>
@@ -36,7 +36,7 @@ const RoadLine = ({ strings }) => {
             </div>
             <div className="roadmap__item">
               <div className="roadmap__item-badge">
-                <span>2022</span>
+                <span>2016-2023</span>
               </div>
               <div className="roadmap__item-content">
                 <strong>{strings["item-4"].title}</strong>

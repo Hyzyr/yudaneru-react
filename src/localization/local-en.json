@@ -7,69 +7,71 @@
     "privacyPolic": "Privacy Policy"
   },
   "hero": {
-    "caption": "FIND THE BEST PROPERTY",
-    "title": "Fully InvestedSM in Better Outcomes",
-    "paragraph": "As a global investment firm, we foster diverse perspectives and embrace innovation to help our clients navigate the uncertainty of capital markets.",
+    "caption": "FIND WHAT YOU NEED",
+    "title": "Fully Invested in Better Outcomes",
+    "paragraph": "As a licensed real estate asset manager in Japan, we understand the complexities of navigating this market, won’t you let us help you?",
     "button": "Contact Us"
   },
   "whyUs": {
     "title": "Why Choose Us",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed a do eiusmod tempor incididunt ut labore et dolore magna  are aliqua. Ut enim ad minim veniam, quis nos",
+    "paragraph": "To achieve anything of significance there needs to be a reliance on something greater than oneself, a team, one built on trust, flexibility and relentlessness. ",
     "item-1": {
-      "title": "Principled/Trust",
-      "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed a do eiusmod tempor incididunt "
+      "title": "Principled",
+      "paragraph": "Principles are the foundation of trust, nothing happens without it, the essence of who we are "
     },
     "item-2": {
-      "title": "Tailored/Customized",
-      "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed a do eiusmod tempor incididunt "
+      "title": "Perseverant",
+      "paragraph": "Rarely do things ever go according to plan, but do you have the resolve to finish, we think we do "
     },
     "item-3": {
-      "title": "Hungry/Ambitious/",
-      "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed a do eiusmod tempor incididunt "
+      "title": "Tailored",
+      "paragraph": "Everyone has different needs, no two clients are the same, your best outcome is our aim"
     }
+   
   },
   "service": {
     "title": "What We Do",
     "item-1": {
-      "title": "Investment Professional",
-      "paragraph": "With over 1 million+ homes for sale available on the website, Trulia can match you with a house."
+      "title": "Real Estate Brokerage",
+      "paragraph": "Whether it’s fee simple or entrusted property we are licensed and capable to execute"
     },
     "item-2": {
-      "title": "What We Do",
-      "paragraph": "With over 1 million+ homes for sale available on the website, Trulia can match you with a house."
+      "title": "Asset Management",
+      "paragraph": "As a licensed real estate asset manager we are able to efficiently tax structure your investment"
     },
     "item-3": {
-      "title": "Institutions & Consultants",
-      "paragraph": "With over 1 million+ homes for sale available on the website, Trulia can match you with a house."
+      "title": "Financial Advisory",
+      "paragraph": "Development, renovation or non-recourse financing we can help point you in the right direction. "
     }
   },
   "wayInvest": {
     "title": "Ways to Invest",
     "item-1": {
-      "title": "Personal",
-      "titleBr": "Investment Account",
-      "paragraph": "Open a standard account and build a portfolio of alternative investments.",
+      "title": "Value Add ",
+      "titleBr": "Multifamily Investment",
+      "paragraph": "Focusing on slightly older and smaller assets with rent upside. ",
       "button": "Contact Us"
     },
+
     "item-2": {
-      "title": "Tax-Advantaged ",
-      "titleBr": "Investing",
-      "paragraph": "Roll over an existing retirement account or open a new Traditional or Roth IRA.",
+      "title": "Project ",
+      "titleBr": "Financing",
+      "paragraph": "Whether you are looking for financing or providing it, we can advise.",
       "button": "Contact Us"
     },
     "item-3": {
-      "title": "Through Your",
-      "titleBr": "Advisor",
-      "paragraph": "Open a standard account and build a portfolio of alternative investments.",
+      "title": "Tax",
+      "titleBr": "Structuring",
+      "paragraph": "A proper tax structure, can make for proper savings, we are licensed and ready to help.",
       "button": "Contact Us"
     }
   },
   "testimonials": {
-    "caption": "POWERING NEXT-GENERATION PORTFOLIOS",
-    "title": "1,769,369",
-    "paragraph": "people are using Yudaneru to start investing smarter",
+    "caption": "OUR APPROACH TO BUSINESS IN NUMBERS",
+    "title": "1 ",
+    "paragraph": "no matter how long we are in business will always treat our clients and opportunities as the first",
     "item-1": {
-      "paragraph": "“Lorem ipsum dolor sit amet. Est sequi debitis id asperiores ullam et libero corporis id blanditiis sequi a possimus voluptas vel dolorem quia eum quam voluptates.”"
+      "paragraph": "“Japan being an island nation with such a rich culture, navigating it can present its own challenges. Thus making it that much more important to rely on the insights and experiences of those in the field.” ”"
     },
     "item-2": {
       "paragraph": "“Lorem ipsum dolor sit amet. Est sequi debitis id asperiores ullam et libero corporis id blanditiis sequi a possimus voluptas vel dolorem quia eum quam voluptates.”"
@@ -81,7 +83,7 @@
   "footer": {
     "column-1": {
       "title": "Office Headquaters",
-      "paragraph": "Balboa Park,San Diego, California,92104,United States"
+      "paragraph": "Nagatacho GRiD 2F, 2-5-3 Hirakawacho, Chiyoda-ku, Tokyo 102-0093"
     },
     "column-2": {
       "title": "Company",
@@ -92,40 +94,40 @@
     },
     "column-3": {
       "title": "About us",
-      "paragraph": "We are the real estate agency in Sydney, with agents available to answer any question 24/7."
+      "paragraph": "Licensed real estate asset manager in Japan, ready, capable and willing to serve"
     },
     "copy": {
-      "paragraph-1": "All rights reserved by ©Creative UI Design 2023.",
+      "paragraph-1": "All rights reserved by YUDANERU Inc. ©2023",
       "paragraph-2": "Privacy Policy"
     }
   },
   "about": {
     "title": "About Us",
-    "paragraph-1": "Lorem ipsum dolor sit amet. Ut galisum blanditiis sit soluta facilis ut reprehenderit minima vel ratione quas. Qui enim minima ut laboriosam consequuntur est possimus repudiandae qui voluptates error et dolorem minus in unde voluptatem vel sint doloremque.",
-    "paragraph-2": " Vel voluptate voluptatum qui doloremque autem qui omnis ipsam qui incidunt vero aut corrupti recusandae ea quod nobis. Vel odio Quis sit libero maiores ut accusantium expedita aut dicta rerum.",
+    "paragraph-1": "More than just a real estate asset manager.  Real estate and geographic location aside, our aim is to stand by your side until the job is done.  Results matter, but our principled and dogged approach may matter more.",
+    "paragraph-2": "With the Type II Financial Instruments and Exchange, Real Estate Brokerage and Investment Advisory licenses we are certified and well equipped to provide solutions to any of your real estate needs in Japan. ",
     "button": "Contact Us"
   },
   "team": {
     "title": "Our Team",
     "item-1": {
-      "name": "Guy Hawkins",
-      "job": "President of Sales"
+      "name": "Frank Fernandez",
+      "job": "Managing Partner"
     },
     "item-2": {
-      "name": "Jenny Wilson",
-      "job": "President of Sales"
+      "name": "Katsuhiro Mizuno",
+      "job": "Head of Compliance"
     },
     "item-3": {
-      "name": "Tóth Kamilla",
-      "job": "President of Sales"
+      "name": "Shoichi Wakamatsu",
+      "job": "Internal Auditor"
     },
     "item-4": {
-      "name": "Szekeres Dalma",
-      "job": "President of Sales"
+      "name": "Akihito Okuzaki",
+      "job": "Finance Head"
     },
     "item-5": {
-      "name": "Wade Warren",
-      "job": "President of Sales"
+      "name": "Saho Yanagimoto",
+      "job": "Head of Real Estate Sales"
     },
     "item-6": {
       "name": "Robert Fox",
@@ -139,57 +141,58 @@
   "history": {
     "title": "Our Company History",
     "item-1": {
-      "title": "Title here",
-      "paragraph": "In quis distinctio non quia dolorum At aliquid magni est sint galisum! Et fugiat quasi vel consequatur ullam et ipsa doloremque est ratione accusamus."
+      "title": "Beginning",
+      "paragraph": "Originally established as a subsidiary of Lehman Brothers."
     },
     "item-2": {
-      "title": "Title here",
-      "paragraph": "In quis distinctio non quia dolorum At aliquid magni est sint galisum! Et fugiat quasi vel consequatur ullam et ipsa doloremque est ratione accusamus."
+      "title": "Capital Realty",
+      "paragraph": "Management buy-out completed by Carl Everett and rebranded into Capital Realty."
     },
     "item-3": {
-      "title": "Title here",
-      "paragraph": "In quis distinctio non quia dolorum At aliquid magni est sint galisum! Et fugiat quasi vel consequatur ullam et ipsa doloremque est ratione accusamus."
+      "title": "Evolution Financial Group",
+      "paragraph": "Acquired by Michael Lerch and rebranded under the Evolution Financial Group."
     },
     "item-4": {
-      "title": "Title here",
-      "paragraph": "In quis distinctio non quia dolorum At aliquid magni est sint galisum! Et fugiat quasi vel consequatur ullam et ipsa doloremque est ratione accusamus."
+      "title": "YUDANERU Inc",
+      "paragraph": "Management buy-out complete in 2016, with re-structuring and re-brainding to YUDANERU Inc. in 2023 "
     }
+   
   },
   "overview": {
     "item-1": {
       "title": "Name",
-      "paragraph": "Yudaneru Real Estate Investing company"
+      "paragraph": "YUDANERU Inc."
     },
     "item-2": {
       "title": "Established",
-      "paragraph": "March 2015"
+      "paragraph": "April 10, 2002"
     },
     "item-3": {
-      "title": "Paid-in capital",
-      "paragraph": "JPY 300 million"
+      "title": "Paid-in Capital",
+      "paragraph": "JPY 100 million　"
     },
     "item-4": {
       "title": "Representative",
-      "paragraph": "Koki Miura President & CEO",
+      "paragraph": "Frank Fernandez",
       "button": "CEO Message"
     },
     "item-5": {
       "title": "Office Location",
-      "paragraph": "Balboa Park,San Diego,California,2104, United States",
+      "paragraph": "Nagatacho GRiD 2F, 2-5-3 Hirakawacho, Chiyoda-ku, Tokyo 102-0093",
       "button": "CEO Message"
     },
     "item-6": {
-      "title": "Shareholder",
-      "paragraph": "Yudaneru Real Estate Holdings, Inc. (100%)",
+      "title": "Business Operations ",
+      "paragraph": "YReal Estate Brokerage, Investment Advisory Business, Type II Financial Instruments Business, Trust Beneficiary Rights Business",
       "button": "CEO Message"
     },
     "item-7": {
-      "title": "Employees and Officers",
-      "paragraph": "168 (including 6 Executive Officers and 2 Statutory Auditors) *As of April 1, 2022"
+      "title": "Licenses",
+      "paragraph": "Registered Real Estate Broker - Tokyo License (5) #81747 / Financial Instruments Business Operator - Type II Financial Instruments Business/ Investment Advisory, Agency Business - Kanto Local Finance Bureau #1260"
     },
     "item-8": {
-      "title": "Business operations",
-      "paragraph": "Investment management business, Type II financial instruments business, Investment advisory and agency business, Real estate trading business"
+      "title": "Memberships",
+      "paragraph": "Japan Investment Advisers Association"
     },
     "item-9": {
       "title": "Registrations, licenses, etc.",
@@ -203,88 +206,88 @@
   "performance": "Performance",
   "achievement": {
     "title": "Our Achievement",
-    "paragraph": "See and understand what we have achieved in the last few years. We have completed so many projects in this period.",
+    "paragraph": "SGrateful for all the projects that our clients have allowed us to join, yet hopeful that the momentum does not stop here.",
     "item-1": {
-      "title": "20500+",
-      "paragraph": "Completed Property"
+      "title": "7,719,000,000+",
+      "paragraph": "Total Transaction Value"
     },
     "item-2": {
-      "title": "7600+",
-      "paragraph": "Property Sales"
+      "title": "15,869+",
+      "paragraph": "Total Building Size"
     },
     "item-3": {
-      "title": "12300+",
-      "paragraph": "Apartment Rent"
+      "title": "4,643+",
+      "paragraph": "Total Land Size"
     },
     "item-4": {
-      "title": "15200+",
-      "paragraph": "Happy Clients"
+      "title": "0*",
+      "paragraph": "Unsatisfied Clients"
     }
   },
   "selectionInvestment": {
     "title": "A Selection Of Our Investments",
     "item-1": {
-      "title": "Office Complex",
+      "title": "Multifamily Asset",
       "paragraphStrong-1": "LOCATION:",
-      "paragraph-1": "Bedfont Lakes, West London",
+      "paragraph-1": "Otsuka, Bunkyo ku, Tokyo",
       "paragraphStrong-2": "SECTOR::",
-      "paragraph-2": "Office / Business Park",
+      "paragraph-2": "Multifamily",
       "paragraphStrong-3": "SIZE:",
-      "paragraph-3": "374,046 sq ft"
+      "paragraph-3": "252 ㎡"
     },
     "item-2": {
-      "title": "Office Complex",
+      "title": "Mixed Use Asset",
       "paragraphStrong-1": "LOCATION:",
-      "paragraph-1": "Bedfont Lakes, West London",
+      "paragraph-1": "Akashichou, Hiratsuka shi, Kanagawa",
       "paragraphStrong-2": "SECTOR::",
-      "paragraph-2": "Office / Business Park",
+      "paragraph-2": "Multifamily, Office, Retail",
       "paragraphStrong-3": "SIZE:",
-      "paragraph-3": "374,046 sq ft"
+      "paragraph-3": "588 ㎡"
     },
     "item-3": {
-      "title": "Office Complex",
+      "title": "Multifamily Asset",
       "paragraphStrong-1": "LOCATION:",
-      "paragraph-1": "Bedfont Lakes, West London",
+      "paragraph-1": "Nihonbashitomizawacho, Chuo ku, Tokyo",
       "paragraphStrong-2": "SECTOR::",
       "paragraph-2": "Office / Business Park",
       "paragraphStrong-3": "SIZE:",
-      "paragraph-3": "374,046 sq ft"
+      "paragraph-3": "188 ㎡"
     },
     "item-4": {
-      "title": "Office Complex",
+      "title": "Mixed Use Asset",
       "paragraphStrong-1": "LOCATION:",
-      "paragraph-1": "Bedfont Lakes, West London",
+      "paragraph-1": "Haneda, Ota ku, Tokyo",
       "paragraphStrong-2": "SECTOR::",
-      "paragraph-2": "Office / Business Park",
+      "paragraph-2": "Multifamily, Retail",
       "paragraphStrong-3": "SIZE:",
-      "paragraph-3": "374,046 sq ft"
+      "paragraph-3": "387 ㎡"
     },
     "item-5": {
-      "title": "Office Complex",
+      "title": "Hospitality Asset",
       "paragraphStrong-1": "LOCATION:",
-      "paragraph-1": "Bedfont Lakes, West London",
+      "paragraph-1": "Showaminamidori, Amagasaki, Hyogo ",
       "paragraphStrong-2": "SECTOR::",
-      "paragraph-2": "Office / Business Park",
+      "paragraph-2": "Hospitality",
       "paragraphStrong-3": "SIZE:",
-      "paragraph-3": "374,046 sq ft"
+      "paragraph-3": "1168 ㎡"
     },
     "item-6": {
-      "title": "Office Complex",
+      "title": "Multifamily Asset",
       "paragraphStrong-1": "LOCATION:",
-      "paragraph-1": "Bedfont Lakes, West London",
+      "paragraph-1": "Niseko cho, Abuta gun, Hokkaido",
       "paragraphStrong-2": "SECTOR::",
-      "paragraph-2": "Office / Business Park",
+      "paragraph-2": "Corporate Dormitory",
       "paragraphStrong-3": "SIZE:",
-      "paragraph-3": "374,046 sq ft"
+      "paragraph-3": "1958 ㎡"
     },
     "item-7": {
-      "title": "Office Complex",
+      "title": "Retail Asset",
       "paragraphStrong-1": "LOCATION:",
-      "paragraph-1": "Bedfont Lakes, West London",
+      "paragraph-1": "Minami Azabu, Minato ku, Tokyo",
       "paragraphStrong-2": "SECTOR::",
-      "paragraph-2": "Office / Business Park",
+      "paragraph-2": "Food & Beverage",
       "paragraphStrong-3": "SIZE:",
-      "paragraph-3": "374,046 sq ft"
+      "paragraph-3": "104 ㎡"
     },
     "item-8": {
       "title": "Office Complex",
@@ -315,7 +318,8 @@
     "title": "Contact US",
     "info": {
       "title": "Contact Info",
-      "paragraph": "Our reports will help you better understand your audience and target the right message to the right person. Send your email marketing campaign in a fast and simple way."
+      "paragraph": "It is our pleasure to serve you.  Please feel free to reach out to us as we will be sure to respond effectively.",
+      "location":"Nagatacho GRiD 2F, 2-5-3 Hirakawacho, Chiyoda-ku, Tokyo 102-0093"
     }
   },
   "policy": {
@@ -354,23 +358,23 @@
       "paragraph-2": "In the process of providing our services, we will use legal and appropriate means to acquire Personal Information about individual customers and Personal Information about persons related to corporate or group customers to the extent necessary for our business, and will acquire such information to the extent necessary to achieve the following purposes of use. ",
       "paragraphTitle-3": "2. Purpose of Use",
       "paragraph-3": "We will use Personal Information only within the scope necessary to achieve the following purposes of use in connection with the following businesses of ours, except as otherwise provided by law.",
-      "listTitle-1": "2. Purpose of Use",
-      "list-1": "Buying, selling, exchange, lease, owning, and brokerage and management of real estate",
-      "list-2": "Real estate consulting",
-      "list-3": "Sales of trust beneficiary interests in land and buildings, and acting as agent and intermediary for such sales",
-      "list-4": "Sales of trust beneficiary interests in the surface rights, and acting as agent and intermediary for such sales",
-      "list-5": "Sales of trust beneficiary interests in leasehold rights of land and buildings, and acting as agent and intermediary for such sales",
-      "list-6": "Other business that Our Company may engage in (including business that will be permitted to be handled in the future).",
+      "listTitle-1": "{Description of Business}",
+      "list-1": "1)Buying, selling, exchange, lease, owning, and brokerage and management of real estate",
+      "list-2": "2)Real estate consulting",
+      "list-3": "3)Sales of trust beneficiary interests in land and buildings, and acting as agent and intermediary for such sales",
+      "list-4": "4)Sales of trust beneficiary interests in the surface rights, and acting as agent and intermediary for such sales",
+      "list-5": "5)Sales of trust beneficiary interests in leasehold rights of land and buildings, and acting as agent and intermediary for such sales",
+      "list-6": "6)Other business that Our Company may engage in (including business that will be permitted to be handled in the future).",
       "listTitle-7": "{Purpose of Use}",
-      "list-7": "To ensure the implementation of products, services, etc. related to all businesses conducted by Our Company.",
-      "list-8": "To provide with information that will be useful in connection with all of Our Company's business activities.",
+      "list-7": "1)To ensure the implementation of products, services, etc. related to all businesses conducted by Our Company.",
+      "list-8": "2)To provide with information that will be useful in connection with all of Our Company's business activities.",
       "paragraphTitle-4": "3. Shared use of customers' Personal Data among group companies",
       "paragraph-4": "We may share your Personal Data with our group companies around the world in order to provide efficient and reliable services and to increase your choice of products and services. When we share your Personal Data, we will be responsible for managing it, and the items of Personal Data shared will be limited to what is necessary for the purpose for which it is shared.",
       "paragraphTitle-5": "Provision of Personal Information to third parties",
       "paragraph-5": "We will not provide Personal Information to third parties except in the following cases",
-      "list-9": "When the customer has given consent",
-      "list-10": "When required by law",
-      "list-11": "When the Company provides Personal Information to a subcontractor to the extent necessary for the performance of its business operations. In the event that we outsource the handling of Personal Information to a third party, we will establish criteria for the selection of the outsourced company and conduct necessary and appropriate supervision to ensure that appropriate security control measures are taken by the outsourced company in advance.",
+      "list-9": "1)When the customer has given consent",
+      "list-10": "2)When required by law",
+      "list-11": "3)When the Company provides Personal Information to a subcontractor to the extent necessary for the performance of its business operations. In the event that we outsource the handling of Personal Information to a third party, we will establish criteria for the selection of the outsourced company and conduct necessary and appropriate supervision to ensure that appropriate security control measures are taken by the outsourced company in advance.",
       "paragraphTitle-6": "Security control of Personal Information",
       "paragraph-6": "In handling Personal Information, we take appropriate security control measures and maintain a necessary and appropriate system for the protection of Personal Information.  In addition, we will continuously instruct and educate all employees on the handling of Personal Information protection.",
       "paragraphTitle-7": "Procedures for Disclosure, Correction, Deletion, etc. of Personal Information",
@@ -382,8 +386,8 @@
       "paragraph-11": "(Hours of operation: weekdays from 10:00 a.m. to 5:00 p.m.) ",
       "paragraphTitle-12": "(Hours of operation: weekdays from 10:00 a.m. to 5:00 p.m.) ",
       "paragraph-12": "This policy is subject to revision due to changes in laws and regulations or other reasons.",
-      "paragraph-13": "Supplementary Provisions This policy shall come into effect as of May 25, 2015.Revised February 1, 2023",
-      "paragraphStrong": "Nam veritatis consequatur est omnis debitis At consequatur earum:"
+      "paragraph-13": "Supplementary Provisions This policy shall come into effect as of May 25, 2015.Revised February 1, 2023"
+     
     },
     "item-4": {
       "title": "The basic policy against anti-social forces",
@@ -391,7 +395,7 @@
       "paragraph-2": "1.Our Company shall endeavor to take company-wide actions against anti-social forces.",
       "paragraph-3": "2.Our Company shall build on-going and close relationships with the external specialized organizations.",
       "paragraph-4": "3.Our Company shall reject any relationship or transactions with anti-social forces.",
-      "paragraph-3": "4.Our Company shall resolutely reject any unreasonable demand from anti-social forces and take legal actions under civil and criminal codes if necessary.",
+      "paragraph-6": "4.Our Company shall resolutely reject any unreasonable demand from anti-social forces and take legal actions under civil and criminal codes if necessary.",
       "paragraph-5": "5.Our Company shall not negotiate any under-the-table deals or provide funds to anti-social forces to resolve any kind of issue."
     },
     "item-5": {
@@ -399,9 +403,9 @@
       "paragraphTitle-1": "１Complaint handling by the Company",
       "paragraph-1": "We have established 'Complaint and Dispute Handling Regulations', and we are committed to responding sincerely and promptly to complaints from our customers, etc., and to gain their understanding.",
       "listTitle-1": "The standard flow of complaint resolution by the Company is as follows: ",
-      "list-1": "Receipt of complaints, etc. from customers",
-      "list-2": "Interviews with personnel in charge and consideration of proposed solutions",
-      "list-3": "Presenting solutions and resolving the complaint",
+      "list-1": "1.Receipt of complaints, etc. from customers",
+      "list-2": "2.Interviews with personnel in charge and consideration of proposed solutions",
+      "list-3": "3.Presenting solutions and resolving the complaint",
       "paragraph-2":"Our consultation service【Consultation on Complaints, etc. Concerning the Financial Instruments Business】",
       "paragraph-3":"Compliance Desk Phone number：03－4510-3380",
       "paragraph-4":"(Monday through Friday, 10:00 a.m. to 5:00 p.m. excluding national holidays) ",

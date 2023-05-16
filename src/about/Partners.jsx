@@ -24,11 +24,6 @@ const Partners = ({ strings }) => {
             </div>
             <div className="partnersItem">
               <div className="ratioImage">
-                <img src="/images/partners/partners-1.png" alt="" />
-              </div>
-            </div>
-            <div className="partnersItem">
-              <div className="ratioImage">
                 <img src="/images/partners/partners-3.png" alt="" />
               </div>
             </div>

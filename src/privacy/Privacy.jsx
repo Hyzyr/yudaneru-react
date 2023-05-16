@@ -74,13 +74,38 @@ const Privacy = ({ strings }) => {
               </div>
               <div className="scrollContent__body">
                 <p className="_lg">
+                  {strings["item-2"]["subtitle"]}
+                  <br /> <br />
                   {strings["item-2"]["paragraph-1"]}
                   <br />
                   <br />
-                  {strings["item-2"]["paragraph-2"]}
+                  <span>
+                    {strings["item-2"]["paragraph-2"]}
+                    <br />
+                    {strings["item-2"]["paragraph-3"]}
+                    <br />
+                    {strings["item-2"]["paragraph-4"]}
+                  </span>
                   <br />
                   <br />
-                  {strings["item-2"]["paragraph-3"]}
+                  {strings["item-2"]["paragraph-5"]}
+                  <br />
+                  <br />
+                  <span>
+                    {strings["item-2"]["paragraph-6"]}
+                    <br />
+                    {strings["item-2"]["paragraph-7"]}
+                  </span>
+                  <br />
+                  <br />
+                  {strings["item-2"]["paragraph-8"]}
+                  <br />
+                  <br />
+                  <span>
+                    {strings["item-2"]["paragraph-9"]}
+                    <br />
+                    {strings["item-2"]["paragraph-10"]}
+                  </span>
                 </p>
               </div>
             </div>
@@ -94,26 +119,87 @@ const Privacy = ({ strings }) => {
                   {strings["item-3"]["paragraph-1"]}
                   <br />
                   <br />
+                  {strings["item-3"]["paragraphTitle-2"]}
+                  <br />
                   {strings["item-3"]["paragraph-2"]}
                   <br />
                   <br />
+                  {strings["item-3"]["paragraphTitle-3"]}
+                  <br />
                   {strings["item-3"]["paragraph-3"]}
-                </p>
-                <h4>{strings["item-3"]["titleSmall"]}</h4>
-                <p className="_lg">
+                  <br />
+                  <br />
+                  <span>
+                    {strings["item-3"]["listTitle-1"]}
+                    <br />
+                    {strings["item-3"]["list-1"]}
+                    <br />
+                    {strings["item-3"]["list-2"]}
+                    <br />
+                    {strings["item-3"]["list-3"]}
+                    <br />
+                    {strings["item-3"]["list-4"]}
+                    <br />
+                    {strings["item-3"]["list-5"]}
+                    <br />
+                    {strings["item-3"]["list-6"]}
+                    <br />
+                    {strings["item-3"]["list-7"]}
+                    <br />
+                    {strings["item-3"]["list-8"]}
+                  </span>
+                  <br />
+                  <br />
+                  {strings["item-3"]["paragraphTitle-4"]}
+                  <br />
                   {strings["item-3"]["paragraph-4"]}
                   <br />
+                  <br />
+                  {strings["item-3"]["paragraphTitle-5"]}
                   <br />
                   {strings["item-3"]["paragraph-5"]}
                   <br />
                   <br />
-                  <strong>{strings["item-3"]["paragraphStrong"]}</strong>
+                  <span>
+                    {strings["item-3"]["list-9"]}
+                    <br />
+                    {strings["item-3"]["list-10"]}
+                    <br />
+                    {strings["item-3"]["list-11"]}
+                  </span>
+                  <br />
+                  <br />
+                  {strings["item-3"]["paragraphTitle-6"]}
+                  <br />
+                  {strings["item-3"]["paragraph-6"]}
+                  <br />
+                  <br />
+                  {strings["item-3"]["paragraphTitle-7"]}
+                  <br />
+                  {strings["item-3"]["paragraph-7"]}
+                  <br />
+                  <br />
+                  {strings["item-3"]["paragraphTitle-8"]}
+                  <br />
+                  {strings["item-3"]["paragraph-8"]}
+                  <br />
+                  <br />
+                  <span>
+                    {strings["item-3"]["paragraph-9"]}
+                    <br />
+                    {strings["item-3"]["paragraph-10"]}
+                    <br />
+                    {strings["item-3"]["paragraph-11"]}
+                    <br />
+                    <br />
+                    {strings["item-3"]["paragraphTitle-12"]}
+                    <br />
+                    {strings["item-3"]["paragraph-12"]}
+                  </span>
+                  <br />
+                  <br />
+                  {strings["item-3"]["paragraph-13"]}
                 </p>
-                <ul>
-                  <li>{strings["item-3"]["list-1"]}</li>
-                  <li>{strings["item-3"]["list-2"]}</li>
-                  <li>{strings["item-3"]["list-3"]}</li>
-                </ul>
               </div>
             </div>
             <div className="anchor" id="Basic-policy"></div>
@@ -126,10 +212,17 @@ const Privacy = ({ strings }) => {
                   {strings["item-4"]["paragraph-1"]}
                   <br />
                   <br />
-                  {strings["item-4"]["paragraph-2"]}
-                  <br />
-                  <br />
-                  {strings["item-4"]["paragraph-3"]}
+                  <span>
+                    {strings["item-4"]["paragraph-2"]}
+                    <br />
+                    {strings["item-4"]["paragraph-3"]}
+                    <br />
+                    {strings["item-4"]["paragraph-4"]}
+                    <br />
+                    {strings["item-4"]["paragraph-5"]}
+                    <br />
+                    {strings["item-4"]["paragraph-6"]}
+                  </span>
                 </p>
               </div>
             </div>
@@ -140,19 +233,103 @@ const Privacy = ({ strings }) => {
               </div>
               <div className="scrollContent__body">
                 <p className="_lg">
+                  <strong> {strings["item-5"]["paragraphTitle-1"]}</strong>
+                  <br />
                   {strings["item-5"]["paragraph-1"]}
+                  <br />
+                  <br />
+                  <span>
+                    {strings["item-5"]["list-1"]}
+                    <br />
+                    {strings["item-5"]["list-2"]}
+                    <br />
+                    {strings["item-5"]["list-3"]}
+                  </span>
                   <br />
                   <br />
                   {strings["item-5"]["paragraph-2"]}
                   <br />
+                  {strings["item-5"]["paragraph-3"]}
                   <br />
-                  <strong>{strings["item-5"]["paragraphStrong"]}</strong>
+                  {strings["item-5"]["paragraph-4"]}
+                  <br />
+                  <br />
+                  {strings["item-5"]["paragraph-5"]}
+                  <br />
+                  {strings["item-5"]["paragraph-6"]}
+                  <br />
+                  <br />
+                  {strings["item-5"]["paragraphTitle-7"]}
+                  <br />
+                  {strings["item-5"]["paragraph-7"]}
+                  <br />
+                  {strings["item-5"]["paragraphTitle-8"]}
+                  <br />
+                  {strings["item-5"]["paragraph-8"]}
+                  <br />
+                  {strings["item-5"]["paragraph-9"]}
+                  <br />
+                  <br />
+                  {strings["item-5"]["listTitle-4"]}
+                  <br />
+                  {strings["item-5"]["list-4"]}
+                  <br />
+                  {strings["item-5"]["list-5"]}
+                  <br />
+                  {strings["item-5"]["list-6"]}
+                  <br />
+                  {strings["item-5"]["paragraph-10"]}
+                  <br />
+                  {strings["item-5"]["paragraph-11"]}
+                  <br />
+                  {strings["item-5"]["paragraph-12"]}
+                  <br />
+                  <br />
+                  <strong> {strings["item-5"]["paragraphTitle-13"]}</strong>
+                  <br />
+                  {strings["item-5"]["paragraph-13"]}
+                  <br />
+                  {strings["item-5"]["paragraph-14"]}
+                  <br />
+                  <br />
+                  {strings["item-5"]["paragraph-15"]}
+                  <br />
+                  {strings["item-5"]["paragraph-16"]}
+                  <br />
+                  {strings["item-5"]["paragraph-17"]}
+                  <br />
+                  {strings["item-5"]["paragraph-18"]}
+                  <br />
+                  <br />
+                  {strings["item-5"]["paragraph-19"]}
+                  <br />
+                  {strings["item-5"]["paragraph-20"]}
+                  <br />
+                  {strings["item-5"]["paragraph-21"]}
+                  <br />
+                  <br />
+                  {strings["item-5"]["list-7"]}
+                  <br />
+                  {strings["item-5"]["list-8"]}
+                  <br />
+                  {strings["item-5"]["list-9"]}
+                  <br />
+                  {strings["item-5"]["list-10"]}
+                  <br />
+                  {strings["item-5"]["list-11"]}
+                  <br />
+                  <br />
+                  {strings["item-5"]["paragraph-22"]}
+                  <br />
+                  {strings["item-5"]["paragraph-23"]}
+                  <br />
+                  {strings["item-5"]["paragraph-24"]}
+                  <br />
+                  {strings["item-5"]["paragraph-25"]}
+                  <br />
+                  <br />
+                  {strings["item-5"]["paragraph-26"]}
                 </p>
-                <ul>
-                  <li>{strings["item-5"]["list-1"]}</li>
-                  <li>{strings["item-5"]["list-2"]}</li>
-                  <li>{strings["item-5"]["list-3"]}</li>
-                </ul>
               </div>
             </div>
           </div>
