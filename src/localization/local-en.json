@@ -206,7 +206,7 @@
     "title": "Our Achievement",
     "paragraph": "SGrateful for all the projects that our clients have allowed us to join, yet hopeful that the momentum does not stop here.",
     "item-1": {
-      "title": "7,719,000,000+",
+      "title": "7,719M+",
       "paragraph": "Total Transaction Value"
     },
     "item-2": {
@@ -338,15 +338,15 @@
       "title": "Solicitation Policy",
       "subtitle": "Pursuant to Article 10 of the Act on the Provision of Financial Services, we have established and publicly announced our solicitation policy for sales of financial products as follows.",
       "paragraph-1": "1 Basic stance on solicitation (matters to be taken into consideration in light of the knowledge, experience and status of property of the person subject to the solicitation of sales, and the purpose for the conclusion of the contract pertaining to the sale of the financial instruments.)",
-      "paragraph-2": "(1) The Company shall endeavor to provide appropriate advice and explanations in light of the customer's knowledge, investment experience, financial situation, and investment objectives. ",
-      "paragraph-3": "(2) The Company will endeavor to provide advice and explanations based on appropriate methods regarding important matters such as product details, risk details, and commissions in order for clients to trade at their own discretion and responsibility. ",
-      "paragraph-4": "(3) The Company will not provide customer with definitive judgments or information that is not true.",
+      "paragraph-2": "1) The Company shall endeavor to provide appropriate advice and explanations in light of the customer's knowledge, investment experience, financial situation, and investment objectives. ",
+      "paragraph-3": "2) The Company will endeavor to provide advice and explanations based on appropriate methods regarding important matters such as product details, risk details, and commissions in order for clients to trade at their own discretion and responsibility. ",
+      "paragraph-4": "3) The Company will not provide customer with definitive judgments or information that is not true.",
       "paragraph-5": "Matters to be taken into consideration for the person subject to the solicitation of sales with regard to the means and timing of solicitation of sales.",
-      "paragraph-6": "(1) The Company will endeavor to provide accurate information on financial products, comply with the Financial Instruments and Exchange Law and other related laws and regulations, and conduct appropriate solicitation in accordance with such laws and regulations.",
-      "paragraph-7": "(2) The Company will endeavor to conduct solicitation at appropriate times and places in accordance with the wishes and requests of our customer.",
+      "paragraph-6": "1) The Company will endeavor to provide accurate information on financial products, comply with the Financial Instruments and Exchange Law and other related laws and regulations, and conduct appropriate solicitation in accordance with such laws and regulations.",
+      "paragraph-7": "2) The Company will endeavor to conduct solicitation at appropriate times and places in accordance with the wishes and requests of our customer.",
       "paragraph-8": "2 Matters for ensuring the appropriate solicitation of sales.",
-      "paragraph-9": "(1) In order to ensure proper solicitation of clients, the Company shall provide sufficient training to our employees and endeavor to maintain an internal system.",
-      "paragraph-10": "(2) The Company shall endeavor to respond in good faith to complaints and requests from customers."
+      "paragraph-9": "1) In order to ensure proper solicitation of clients, the Company shall provide sufficient training to our employees and endeavor to maintain an internal system.",
+      "paragraph-10": "2) The Company shall endeavor to respond in good faith to complaints and requests from customers."
     },
     "item-3": {
       "title": "Privacy Policy",
@@ -408,9 +408,9 @@
       "paragraph-4": "(Monday through Friday, 10:00 a.m. to 5:00 p.m. excluding national holidays) ",
       "paragraph-5": "Non-profit organization: Financial Instruments Mediation Assistance Center (FINMAC) for complaint resolution",
       "paragraph-6": "In addition to the above (1), the Company will attempt to resolve complaints through FINMAC.",
-      "paragraphTitle-7": "（Investment advisory and agency business）",
+      "paragraphTitle-7": "(Investment advisory and agency business)",
       "paragraph-7": "Japan Investment Advisers Association entrusted FINMAC with the complaint resolution business",
-      "paragraphTitle-8": "（Type II Financial Instruments Business）",
+      "paragraphTitle-8": "(Type II Financial Instruments Business)",
       "paragraph-8": "Measures to use FINMAC through individual use registration",
       "paragraph-9": "If you wish to use FINMAC to resolve a complaint with us, please contact the 'FINMAC Consultation Desk' below.",
       "listTitle-4": "The standard flow of steps taken by FINMAC to resolve complaints is as follows:",
