@@ -144,6 +144,9 @@ const Privacy = ({ strings }) => {
                     <br />
                     {strings["item-3"]["list-6"]}
                     <br />
+                    <br />
+                    {strings["item-3"]["listTitle-7"]}
+                    <br />
                     {strings["item-3"]["list-7"]}
                     <br />
                     {strings["item-3"]["list-8"]}
