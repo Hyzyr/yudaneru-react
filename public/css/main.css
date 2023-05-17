@@ -1204,6 +1204,8 @@ svg {
   color: #32327c;
   font-weight: 700;
   margin-bottom: 8px;
+  width: 100%;
+  display: inline-block !important;
   display: -webkit-box;
   -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;

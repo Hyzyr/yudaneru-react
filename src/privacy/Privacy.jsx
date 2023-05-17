@@ -332,6 +332,47 @@ const Privacy = ({ strings }) => {
                 </p>
               </div>
             </div>
+            <div className="scrollContent">
+              <div className="scrollContent__header">
+                <h2 className="_sm">{strings["item-6"].title}</h2>
+              </div>
+              <div className="scrollContent__body">
+                <p className="_lg">
+                  {strings["item-6"]["paragraph-1"]}
+                  <br />
+                  {strings["item-6"]["paragraph-2"]}
+                  <br />
+                  {strings["item-6"]["paragraph-3"]}
+                  <br /><br />
+                  <span>
+                    {strings["item-6"]["paragraph-4"]}
+                    <br />
+                    {strings["item-6"]["paragraph-5"]}
+                    <br />
+                    {strings["item-6"]["paragraph-6"]}
+                    <br />
+                    {strings["item-6"]["paragraph-7"]}
+                    <br />
+                    {strings["item-6"]["paragraph-8"]}
+                    <br />
+                    {strings["item-6"]["paragraph-9"]}
+                    <br />
+                    {strings["item-6"]["paragraph-10"]}
+                    <br />
+                    {strings["item-6"]["paragraph-11"]}
+                    <br />
+                    {strings["item-6"]["paragraph-12"]}
+                    <br />
+                    {strings["item-6"]["paragraph-13"]}
+                    <br />
+                    {strings["item-6"]["paragraph-14"]}
+                    <br />
+                    <strong>{strings["item-6"]["paragraph-strong-15"]}</strong>
+                    {strings["item-6"]["paragraph-15"]}
+                  </span>
+                </p>
+              </div>
+            </div>
           </div>
         </div>
       </div>

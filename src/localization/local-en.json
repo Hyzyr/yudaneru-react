@@ -27,7 +27,6 @@
       "title": "Tailored",
       "paragraph": "Everyone has different needs, no two clients are the same, your best outcome is our aim"
     }
-   
   },
   "service": {
     "title": "What We Do",
@@ -156,7 +155,6 @@
       "title": "YUDANERU Inc",
       "paragraph": "Management buy-out complete in 2016, with re-structuring and re-brainding to YUDANERU Inc. in 2023 "
     }
-   
   },
   "overview": {
     "item-1": {
@@ -319,7 +317,7 @@
     "info": {
       "title": "Contact Info",
       "paragraph": "It is our pleasure to serve you.  Please feel free to reach out to us as we will be sure to respond effectively.",
-      "location":"Nagatacho GRiD 2F, 2-5-3 Hirakawacho, Chiyoda-ku, Tokyo 102-0093"
+      "location": "Nagatacho GRiD 2F, 2-5-3 Hirakawacho, Chiyoda-ku, Tokyo 102-0093"
     }
   },
   "policy": {
@@ -387,7 +385,6 @@
       "paragraphTitle-12": "(Hours of operation: weekdays from 10:00 a.m. to 5:00 p.m.) ",
       "paragraph-12": "This policy is subject to revision due to changes in laws and regulations or other reasons.",
       "paragraph-13": "Supplementary Provisions This policy shall come into effect as of May 25, 2015.Revised February 1, 2023"
-     
     },
     "item-4": {
       "title": "The basic policy against anti-social forces",
@@ -406,11 +403,11 @@
       "list-1": "1.Receipt of complaints, etc. from customers",
       "list-2": "2.Interviews with personnel in charge and consideration of proposed solutions",
       "list-3": "3.Presenting solutions and resolving the complaint",
-      "paragraph-2":"Our consultation service【Consultation on Complaints, etc. Concerning the Financial Instruments Business】",
-      "paragraph-3":"Compliance Desk Phone number：03－4510-3380",
-      "paragraph-4":"(Monday through Friday, 10:00 a.m. to 5:00 p.m. excluding national holidays) ",
-      "paragraph-5":"Non-profit organization: Financial Instruments Mediation Assistance Center (FINMAC) for complaint resolution",
-      "paragraph-6":"In addition to the above (1), the Company will attempt to resolve complaints through FINMAC.",
+      "paragraph-2": "Our consultation service【Consultation on Complaints, etc. Concerning the Financial Instruments Business】",
+      "paragraph-3": "Compliance Desk Phone number：03－4510-3380",
+      "paragraph-4": "(Monday through Friday, 10:00 a.m. to 5:00 p.m. excluding national holidays) ",
+      "paragraph-5": "Non-profit organization: Financial Instruments Mediation Assistance Center (FINMAC) for complaint resolution",
+      "paragraph-6": "In addition to the above (1), the Company will attempt to resolve complaints through FINMAC.",
       "paragraphTitle-7": "（Investment advisory and agency business）",
       "paragraph-7": "Japan Investment Advisers Association entrusted FINMAC with the complaint resolution business",
       "paragraphTitle-8": "（Type II Financial Instruments Business）",
@@ -447,6 +444,27 @@
       "paragraph-26": "※Please be aware that you will be required to provide us or the Financial Instruments Mediation Assistance Center (FINMAC) with your personal information (name, contact information, details of consultation/complaint, etc.) when requesting complaint resolution or dispute resolution.",
 
       "paragraphStrong": "Nam veritatis consequatur est omnis debitis At consequatur earum:"
+    },
+    "item-6": {
+      "title": "Explanatory Items under the Financial Instruments and Exchange Law",
+      "paragraph-1": "1. Fees, etc. pertaining to financial instruments transaction contracts Remuneration and other fees, etc. to be paid by customers in connection with financial instruments transaction contracts differ for each financial instrument and will be determined through consultations based on the details of each financial instrument, such as the form of contract, etc. Please contact us for specific details.",
+      "paragraph-2": "2. We may decline transactions depending on the customer's knowledge, investment experience, financial situation, and investment objectives.",
+      "paragraph-3": "3. The financial instruments we handle are products with the following risks. The risks listed below may require additional investment, etc., and may result in losses in excess of the principal amount invested.",
+      "paragraph-4": "* There is a risk that we may not be able to acquire or sell real estate ('real estate'), which are substantial investment assets, as planned.",
+      "paragraph-5": "* There is a risk that the value of financial instruments may decline due to fluctuations in the price of real estate, etc., and losses may be incurred.",
+      "paragraph-6": "* There is a risk that real estate may be damaged or destroyed due to natural disasters or accidents.",
+      "paragraph-7": "* There is a risk that the deposit will not be returned or the transaction itself may become void due to bankruptcy, etc. of the seller of the real estate.",
+      "paragraph-8": "* There is a risk of incurring liabilities such as penalty fees, etc. upon the departure of a major tenant due to the condition of the real estate (building defects, etc.).",
+      "paragraph-9": "* In the event of transfer of real estate, there is a risk that the transfer amount will be less than the book value of the real estate at the time of acquisition, resulting in a loss on transfer.",
+      "paragraph-10": "* There is a risk that the value of the real estate may decrease due to expropriation of land, rezoning, etc. based on urban planning decisions, etc.",
+      "paragraph-11": "* There is a risk that expenses will be incurred due to lawsuits with tenants of the real estate, neighboring landowners, etc.",
+      "paragraph-12": "* There is a risk that expenses will be incurred due to repairs caused by age-related deterioration or defects of real estate.",
+      "paragraph-13": "* When planning reconstruction of real estate (buildings), etc., there is a risk that the same level of construction as at present may not be possible due to future revisions of laws and regulations, etc. * There is a risk that expenses may be incurred for repairs due to deterioration or defects in real estate over time. In addition, there is a risk that buildings that were constructed to be qualified at the time of construction may become existing nonconforming due to future revisions of laws and ordinances, etc.",
+      "paragraph-14": "* The value of real estate may decrease due to soil contamination, etc., or expenses may be incurred to remove soil contamination.",
+      "paragraph-15": "* The initially projected revenues may fall below the forecast due to a decrease in the occupancy rate of the real estate, nonpayment of rent by tenants, downward revision of rent due to a decline in the market rent, or an increase in management costs, etc.",
+      "paragraph-16": "* There is a risk that taxes and public charges (fixed property tax and city planning tax) related to real estate may increase in the future.",
+      "paragraph-strong-15": "* There is neither a guarantee of principal nor a guarantee of yield for the financial instruments we handle. Therefore, please note that the risk of the value of the ",
+      "paragraph-15": "financial instruments you invest in falling below the principal amount invested and the risk of losses exceeding the principal amount invested are both to be borne by you."
     }
   }
 }

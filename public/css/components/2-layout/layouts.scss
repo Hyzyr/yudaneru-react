@@ -154,7 +154,10 @@
           color: $primary;
           font-weight: 700;
           margin-bottom: 8px;
+          width: 100%;
+          display: inline-block !important;
           @include ellipsis;
+
         }
       }
     }
