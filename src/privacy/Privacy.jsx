@@ -370,8 +370,14 @@ const Privacy = ({ strings }) => {
                     <br />
                     {strings["item-6"]["paragraph-14"]}
                     <br />
-                    <strong>{strings["item-6"]["paragraph-strong-15"]}</strong>
                     {strings["item-6"]["paragraph-15"]}
+                    <br />
+                    {strings["item-6"]["paragraph-16"]}
+                    <br />
+                    <strong>
+                    {strings["item-6"]["paragraph-strong-17"]}
+                    </strong>
+                    {strings["item-6"]["paragraph-17"]}
                   </span>
                 </p>
               </div>
