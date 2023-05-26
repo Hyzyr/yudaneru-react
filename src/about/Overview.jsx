@@ -7,7 +7,7 @@ const Overview = ({ strings }) => {
       <div className="autoContainer">
         <div className="overview__inner">
           <div className="overview__inner-header">
-            <h2>Company Overview</h2>
+            <h2>{strings.title}</h2>
           </div>
           <div className="overview__inner-content">
             <div className="overview__inner-row">
@@ -40,10 +40,10 @@ const Overview = ({ strings }) => {
               </div>
               <div className="overviewContent">
                 <p>{strings["item-4"].paragraph}</p>
-                <button className="button">
+                {/* <button className="button">
                   {strings["item-4"].button}
                   <span>{topRightArrSVG}</span>
-                </button>
+                </button> */}
               </div>
             </div>
             <div className="overview__inner-row">
@@ -52,10 +52,10 @@ const Overview = ({ strings }) => {
               </div>
               <div className="overviewContent">
                 <p>{strings["item-5"].paragraph}</p>
-                <button className="button">
+                {/* <button className="button">
                   {strings["item-5"].button}
                   <span>{topRightArrSVG}</span>
-                </button>
+                </button> */}
               </div>
             </div>
             <div className="overview__inner-row">
@@ -64,10 +64,10 @@ const Overview = ({ strings }) => {
               </div>
               <div className="overviewContent">
                 <p>{strings["item-6"].paragraph}</p>
-                <button className="button">
+                {/* <button className="button">
                   {strings["item-6"].button}
                   <span>{topRightArrSVG}</span>
-                </button>
+                </button> */}
               </div>
             </div>
             <div className="overview__inner-row">

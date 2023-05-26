@@ -1,6 +1,7 @@
 import React, { useRef, useState } from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
+import "swiper/css/effect-fade";
 import { Navigation } from "swiper";
 import { fortuneSVG } from "components/SVG";
 
@@ -27,6 +28,7 @@ const Feedbacks = ({ strings }) => {
           <div className="feedbacks__slider">
             <Swiper
               modules={[Navigation]}
+              effect="fade"
               {...swiperSettings}
               navigation={{ nextEl: next.current, prevEl: prev.current }}
               onInit={(swiper) => {
@@ -38,17 +40,17 @@ const Feedbacks = ({ strings }) => {
             >
               <SwiperSlide>
                 <div className="feedbacks__slider-item">
-                  <p>“{strings["item-1"].paragraph}”</p>
+                  <p>{strings["item-1"].paragraph}</p>
                 </div>
               </SwiperSlide>
               <SwiperSlide>
                 <div className="feedbacks__slider-item">
-                  <p>“{strings["item-2"].paragraph}”</p>
+                  <p>{strings["item-2"].paragraph}</p>
                 </div>
               </SwiperSlide>
               <SwiperSlide>
                 <div className="feedbacks__slider-item">
-                  <p>“{strings["item-3"].paragraph}”</p>
+                  <p>{strings["item-3"].paragraph}</p>
                 </div>
               </SwiperSlide>
             </Swiper>

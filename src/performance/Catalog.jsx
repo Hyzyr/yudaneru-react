@@ -175,54 +175,6 @@ const Catalog = ({ strings }) => {
                 </div>
               </div>
             </div>
-            <div className="gridItem">
-              <div className="gridItem__image">
-                <div className="ratioImage">
-                  <img src="/images/investments/investments-8.png" alt="" />
-                </div>
-              </div>
-              <div className="gridItem__info">
-                <h4>{strings["item-8"].title}</h4>
-                <p className="_sm">
-                  <strong>{strings["item-8"]["paragraphStrong-1"]}</strong>
-                  {strings["item-8"]["paragraph-1"]}
-                </p>
-                <div className="gridItem__info-row">
-                  <p className="_sm">
-                    <strong>{strings["item-8"]["paragraphStrong-2"]}</strong>
-                    {strings["item-8"]["paragraph-2"]}
-                  </p>
-                  <p className="_sm">
-                    <strong>{strings["item-1"]["paragraphStrong-3"]}</strong>
-                    {strings["item-1"]["paragraph-3"]}
-                  </p>
-                </div>
-              </div>
-            </div>
-            <div className="gridItem">
-              <div className="gridItem__image">
-                <div className="ratioImage">
-                  <img src="/images/investments/investments-9.png" alt="" />
-                </div>
-              </div>
-              <div className="gridItem__info">
-                <h4>{strings["item-9"].title}</h4>
-                <p className="_sm">
-                  <strong>{strings["item-9"]["paragraphStrong-1"]}</strong>
-                  {strings["item-9"]["paragraph-1"]}
-                </p>
-                <div className="gridItem__info-row">
-                  <p className="_sm">
-                    <strong>{strings["item-9"]["paragraphStrong-2"]}</strong>
-                    {strings["item-9"]["paragraph-2"]}
-                  </p>
-                  <p className="_sm">
-                    <strong>{strings["item-1"]["paragraphStrong-3"]}</strong>
-                    {strings["item-1"]["paragraph-3"]}
-                  </p>
-                </div>
-              </div>
-            </div>
           </div>
         </div>
       </div>

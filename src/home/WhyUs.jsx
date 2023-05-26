@@ -54,8 +54,8 @@ const WhyUs = ({ strings }) => {
                     alt="chooseUsIcon-2"
                   />
                 </div>
-                <h4 className="_sm">{strings["item-2"].title}</h4>
-                <p>{strings["item-2"].paragraph}</p>
+                <h4 className="_sm">{strings["item-3"].title}</h4>
+                <p>{strings["item-3"].paragraph}</p>
               </li>
               <li className="whyUs__list-item">
                 <div className="whyUs__list-item-icon">
@@ -64,8 +64,8 @@ const WhyUs = ({ strings }) => {
                     alt="chooseUsIcon-3"
                   />
                 </div>
-                <h4 className="_sm">{strings["item-3"].title}</h4>
-                <p>{strings["item-3"].paragraph}</p>
+                <h4 className="_sm">{strings["item-2"].title}</h4>
+                <p>{strings["item-2"].paragraph}</p>
               </li>
             </ul>
           </div>

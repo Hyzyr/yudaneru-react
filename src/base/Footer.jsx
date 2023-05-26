@@ -46,20 +46,7 @@ const Footer = ({ strings }) => {
           <div className="footer__inner-social">
             <h6>{strings["column-3"].title}</h6>
             <p className="_sm">{strings["column-3"].paragraph}</p>
-            <div className="footer__inner-social-links">
-              <a href="#" className="button button--icon">
-                {twitterSVG}
-              </a>
-              <a href="#" className="button button--icon">
-                {faceBookSVG}
-              </a>
-              <a href="#" className="button button--icon">
-                {instaSVG}
-              </a>
-              <a href="#" className="button button--icon">
-                {mSVG}
-              </a>
-            </div>
+        
           </div>
         </div>
         <div className="footer__copyright">

@@ -12,7 +12,7 @@ const SwithLang = ({ strings }) => {
 
   return (
     <div className={`switchLang ${active ? "active" : ""}`}>
-      <span onClick={() => setActive(false)}>JP</span>
+      <span onClick={() => setActive(false)}>日本語</span>
       <div
         onClick={() => setActive(!active)}
         className="switchLang__label"

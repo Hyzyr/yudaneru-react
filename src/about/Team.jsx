@@ -20,10 +20,9 @@ const Team = ({ strings }) => {
                   <p className="_sm">{strings["item-1"].job}</p>
                 </div>
                 <div className="gridItem__info-social">
-                  <a href="#" className="button button--icon smIcon">
+                  <a href="linkedin.com/in/frankmfernandeziii " className="button button--icon smIcon">
                     {linkedinSvg}
                   </a>
-                 
                 </div>
               </div>
             </div>
@@ -38,12 +37,6 @@ const Team = ({ strings }) => {
                   <h4>{strings["item-2"].name}</h4>
                   <p className="_sm">{strings["item-2"].job}</p>
                 </div>
-                <div className="gridItem__info-social">
-                  <a href="#" className="button button--icon smIcon">
-                    {linkedinSvg}
-                  </a>
-                 
-                </div>
               </div>
             </div>
             <div className="gridItem">
@@ -56,12 +49,6 @@ const Team = ({ strings }) => {
                 <div className="gridItem__info-text">
                   <h4>{strings["item-3"].name}</h4>
                   <p className="_sm">{strings["item-3"].job}</p>
-                </div>
-                <div className="gridItem__info-social">
-                  <a href="#" className="button button--icon smIcon">
-                    {linkedinSvg}
-                  </a>
-                 
                 </div>
               </div>
             </div>
@@ -76,12 +63,7 @@ const Team = ({ strings }) => {
                   <h4>{strings["item-4"].name}</h4>
                   <p className="_sm">{strings["item-4"].job}</p>
                 </div>
-                <div className="gridItem__info-social">
-                  <a href="#" className="button button--icon smIcon">
-                    {linkedinSvg}
-                  </a>
-                 
-                </div>
+              
               </div>
             </div>
             <div className="gridItem">
@@ -94,12 +76,6 @@ const Team = ({ strings }) => {
                 <div className="gridItem__info-text">
                   <h4>{strings["item-5"].name}</h4>
                   <p className="_sm">{strings["item-5"].job}</p>
-                </div>
-                <div className="gridItem__info-social">
-                  <a href="#" className="button button--icon smIcon">
-                    {linkedinSvg}
-                  </a>
-                 
                 </div>
               </div>
             </div>

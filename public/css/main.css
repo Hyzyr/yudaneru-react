@@ -1109,9 +1109,11 @@ svg {
   padding: 120px 0;
 }
 .grid--team .grid__inner-row {
-  -webkit-box-pack: space-evenly;
-      -ms-flex-pack: space-evenly;
-          justify-content: space-evenly;
+  max-width: 1135px;
+  margin: 0 auto;
+  -webkit-box-pack: start;
+      -ms-flex-pack: start;
+          justify-content: flex-start;
 }
 .grid--service {
   padding: 120px 0;
@@ -1191,9 +1193,8 @@ svg {
   margin-bottom: 16px;
 }
 .grid--achievement .gridItem {
-  width: calc(25% - 15px);
+  width: calc(33.3% - 15px);
   padding: 23px 30px;
-  max-width: 262px;
   background: #fff;
   text-align: center;
   -webkit-box-shadow: 0px 4px 16px rgba(16, 24, 40, 0.04);
@@ -1250,6 +1251,9 @@ svg {
 }
 .grid--selection .grid__inner-row {
   gap: 30px;
+  -webkit-box-pack: start;
+      -ms-flex-pack: start;
+          justify-content: flex-start;
 }
 .grid--selection .grid__inner h3 {
   color: #32327c;
@@ -1304,6 +1308,7 @@ svg {
 }
 .grid--selection .gridItem__info-row p strong {
   display: block;
+  margin-right: unset !important;
 }
 .grid--selection .gridItem .ratioImage {
   padding-bottom: 76.5%;
@@ -1314,6 +1319,7 @@ svg {
 .grid--selection .gridItem p strong {
   color: #171b26;
   font-weight: 500;
+  margin-right: 0.5em;
 }
 .grid--selection .gridItem:hover {
   -webkit-box-shadow: 0px 12px 24px rgba(16, 24, 40, 0.08);
@@ -1791,6 +1797,7 @@ svg {
   font-weight: 700;
   line-height: 1.2;
   color: #171b26;
+  text-align: center;
 }
 .feedbacks__inner-info p {
   font-weight: 500;
@@ -2324,9 +2331,6 @@ svg {
   .grid--achievement .grid__inner-row {
     gap: 30px 20px;
   }
-  .grid--achievement .gridItem {
-    width: calc(25% - 15px);
-  }
   .grid--invest .grid__inner {
     padding: 100px 0 80px;
   }
@@ -2632,9 +2636,6 @@ svg {
   .grid--achievement .grid__inner h2 {
     margin-bottom: 12px;
   }
-  .grid--achievement .gridItem {
-    width: calc(25% - 15px);
-  }
   .grid--invest .grid__inner {
     padding: 90px 0 70px;
   }
@@ -2687,6 +2688,7 @@ svg {
   .hero {
     padding: 60px 0 80px 0;
   }
+
   .whyUs {
     padding: 80px 0;
   }
@@ -2815,7 +2817,6 @@ svg {
     gap: 10px;
   }
   .grid--achievement .gridItem {
-    width: calc(25% - 8px);
     padding: 20px 10px;
   }
   .grid--achievement .gridItem h3 {
@@ -3197,6 +3198,7 @@ svg {
   ._advanced .hero__banner {
     padding-bottom: 100%;
   }
+
   .whyUs__banner {
     gap: 15px;
   }

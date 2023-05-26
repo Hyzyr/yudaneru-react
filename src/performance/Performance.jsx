@@ -30,11 +30,7 @@ const Performance = ({ strings }) => {
                 <h3>{stringsAchievement["item-3"].title}</h3>
                 <p>{stringsAchievement["item-3"].paragraph}</p>
               </div>
-
-              <div className="gridItem">
-                <h3>{stringsAchievement["item-4"].title}</h3>
-                <p>{stringsAchievement["item-4"].paragraph}</p>
-              </div>
+              
             </div>
           </div>
         </div>

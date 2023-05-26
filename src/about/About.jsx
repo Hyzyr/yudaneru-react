@@ -11,7 +11,6 @@ const About = ({ strings }) => {
     <>
       <Hero strings={strings.about} />
       <Team strings={strings.team} />
-      <Partners strings={strings.partners} />
       <RoadLine strings={strings.history} />
       <Overview strings={strings.overview} />
     </>
