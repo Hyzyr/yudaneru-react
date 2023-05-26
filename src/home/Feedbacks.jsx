@@ -2,11 +2,12 @@ import React, { useRef, useState } from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
 import "swiper/css/effect-fade";
-import { Navigation } from "swiper";
+import { EffectFade, Navigation } from "swiper";
 import { fortuneSVG } from "components/SVG";
 
 const swiperSettings = {
   loop: true,
+  effect: "fade",
   spaceBetween: 0,
   centeredSlides: true,
   slidesPerView: 1,
@@ -27,7 +28,7 @@ const Feedbacks = ({ strings }) => {
           </div>
           <div className="feedbacks__slider">
             <Swiper
-              modules={[Navigation]}
+              modules={[Navigation, EffectFade]}
               effect="fade"
               {...swiperSettings}
               navigation={{ nextEl: next.current, prevEl: prev.current }}
