@@ -29,7 +29,6 @@ const Feedbacks = ({ strings }) => {
           <div className="feedbacks__slider">
             <Swiper
               modules={[Navigation, EffectFade]}
-              effect="fade"
               {...swiperSettings}
               navigation={{ nextEl: next.current, prevEl: prev.current }}
               onInit={(swiper) => {
