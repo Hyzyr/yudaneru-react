@@ -50,7 +50,7 @@ const Catalog = ({ strings }) => {
                   </p>
                   <p className="_sm">
                     <strong>{strings["item-1"]["paragraphStrong-3"]}</strong>
-                    {strings["item-1"]["paragraph-3"]}
+                    {strings["item-2"]["paragraph-3"]}
                   </p>
                 </div>
               </div>
@@ -74,7 +74,7 @@ const Catalog = ({ strings }) => {
                   </p>
                   <p className="_sm">
                     <strong>{strings["item-1"]["paragraphStrong-3"]}</strong>
-                    {strings["item-1"]["paragraph-3"]}
+                    {strings["item-3"]["paragraph-3"]}
                   </p>
                 </div>
               </div>
@@ -98,7 +98,7 @@ const Catalog = ({ strings }) => {
                   </p>
                   <p className="_sm">
                     <strong>{strings["item-1"]["paragraphStrong-3"]}</strong>
-                    {strings["item-1"]["paragraph-3"]}
+                    {strings["item-4"]["paragraph-3"]}
                   </p>
                 </div>
               </div>
@@ -122,7 +122,7 @@ const Catalog = ({ strings }) => {
                   </p>
                   <p className="_sm">
                     <strong>{strings["item-1"]["paragraphStrong-3"]}</strong>
-                    {strings["item-1"]["paragraph-3"]}
+                    {strings["item-5"]["paragraph-3"]}
                   </p>
                 </div>
               </div>
@@ -146,7 +146,7 @@ const Catalog = ({ strings }) => {
                   </p>
                   <p className="_sm">
                     <strong>{strings["item-1"]["paragraphStrong-3"]}</strong>
-                    {strings["item-1"]["paragraph-3"]}
+                    {strings["item-6"]["paragraph-3"]}
                   </p>
                 </div>
               </div>
@@ -170,7 +170,7 @@ const Catalog = ({ strings }) => {
                   </p>
                   <p className="_sm">
                     <strong>{strings["item-1"]["paragraphStrong-3"]}</strong>
-                    {strings["item-1"]["paragraph-3"]}
+                    {strings["item-7"]["paragraph-3"]}
                   </p>
                 </div>
               </div>

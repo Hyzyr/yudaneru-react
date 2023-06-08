@@ -15,9 +15,9 @@ const Invest = ({ strings }) => {
                 {strings["item-1"].titleBr}
               </h4>
               <p>{strings["item-1"].paragraph}</p>
-              <Link to="/contact-us" className="button button--border">
+              {/* <Link to="/contact-us" className="button button--border">
                 {strings["item-1"].button}
-              </Link>
+              </Link> */}
             </div>
             <div className="gridItem">
               <h4>
@@ -26,9 +26,9 @@ const Invest = ({ strings }) => {
                 {strings["item-2"].titleBr}
               </h4>
               <p>{strings["item-2"].paragraph}</p>
-              <Link to="/contact-us" className="button button--border">
+              {/* <Link to="/contact-us" className="button button--border">
                 {strings["item-2"].button}
-              </Link>
+              </Link> */}
             </div>
             <div className="gridItem">
               <h4>
@@ -37,9 +37,9 @@ const Invest = ({ strings }) => {
                 {strings["item-3"].titleBr}
               </h4>
               <p>{strings["item-3"].paragraph}</p>
-              <Link to="/contact-us" className="button button--border">
+              {/* <Link to="/contact-us" className="button button--border">
                 {strings["item-3"].button}
-              </Link>
+              </Link> */}
             </div>
           </div>
         </div>

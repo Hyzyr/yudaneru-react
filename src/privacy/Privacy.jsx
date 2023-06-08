@@ -51,9 +51,12 @@ const Privacy = ({ strings }) => {
             <a href="#Handling-policy" className="scrollTab">
               {strings.tabs["tab-4"]}
             </a>
+            <a href="#" className="scrollTab">
+              {strings.tabs["tab-5"]}
+            </a>
           </div>
           <div className="scroll__inner-content">
-            <div className="scrollContent">
+            {/* <div className="scrollContent">
               <div className="scrollContent__header caption">
                 <h2 className="_sm">{strings["item-1"].title}</h2>
                 <p className="_sm">{strings["item-1"].subTitle}</p>
@@ -66,7 +69,7 @@ const Privacy = ({ strings }) => {
                   {strings["item-1"]["paragraph-2"]}
                 </p>
               </div>
-            </div>
+            </div> */}
             <div className="anchor" id="Solicitation-policy"></div>
             <div className="scrollContent">
               <div className="scrollContent__header">
@@ -74,7 +77,9 @@ const Privacy = ({ strings }) => {
               </div>
               <div className="scrollContent__body">
                 <p className="_lg">
-                  {strings["item-2"]["subtitle"]}
+                  {strings["item-2"]["paragraph-2"]}
+                  <br />
+                  {strings["item-2"]["paragraph-1"]}
                   <br /> <br />
                   <span>
                     {strings["item-2"]["paragraph-2"]}
@@ -95,6 +100,9 @@ const Privacy = ({ strings }) => {
                   </span>
                   <br />
                   <br />
+                  {strings["item-2"]["paragraph-8"]}
+                  <br />
+                  <br />
                   <span>
                     {strings["item-2"]["paragraph-9"]}
                     <br />
@@ -110,8 +118,9 @@ const Privacy = ({ strings }) => {
               </div>
               <div className="scrollContent__body list">
                 <p className="_lg">
-                {strings["item-3"]["paragraph-14"]}
-                  <br /><br />
+                  {strings["item-3"]["paragraph-14"]}
+                  <br />
+                  <br />
                   {strings["item-3"]["paragraph-1"]}
                   <br />
                   <br />
@@ -125,33 +134,31 @@ const Privacy = ({ strings }) => {
                   {strings["item-3"]["paragraph-3"]}
                   <br />
                   <br />
-                  <span>
-                    {strings["item-3"]["listTitle-1"]}
-                    <br />
-                    {strings["item-3"]["list-1"]}
-                    <br />
-                    <br />
-                    {strings["item-3"]["list-2"]}
-                    <br />
-                    <br />
-                    {strings["item-3"]["list-3"]}
-                    <br />
-                    <br />
-                    {strings["item-3"]["list-4"]}
-                    <br />
-                    <br />
-                    {strings["item-3"]["list-5"]}
-                    <br />
-                    <br />
-                    {strings["item-3"]["list-6"]}
-                    <br />
+                  {strings["item-3"]["listTitle-1"]}
+                  <br />
+                  {strings["item-3"]["list-1"]}
+                  <br />
+                  <br />
+                  {strings["item-3"]["list-2"]}
+                  <br />
+                  <br />
+                  {strings["item-3"]["list-3"]}
+                  <br />
+                  <br />
+                  {strings["item-3"]["list-4"]}
+                  <br />
+                  <br />
+                  {strings["item-3"]["list-5"]}
+                  <br />
+                  <br />
+                  {strings["item-3"]["list-6"]}
+                  {/* <br />
                     <br />
                     {strings["item-3"]["listTitle-7"]}
                     <br />
                     {strings["item-3"]["list-7"]}
                     <br /><br />
-                    {strings["item-3"]["list-8"]}
-                  </span>
+                    {strings["item-3"]["list-8"]} */}
                   <br />
                   <br />
                   {strings["item-3"]["paragraphTitle-4"]}
@@ -233,7 +240,11 @@ const Privacy = ({ strings }) => {
               </div>
               <div className="scrollContent__body">
                 <p className="_lg">
+                  {strings["item-5"]["paragraphTitle-1"]}
+                  <br />
                   {strings["item-5"]["paragraph-1"]}
+                  <br />
+                  {strings["item-5"]["listTitle-1"]}
                   <br />
                   <br />
                   <span>
@@ -259,24 +270,26 @@ const Privacy = ({ strings }) => {
                   <br />
                   {strings["item-5"]["paragraphTitle-7"]}
                   <br />
-                  {strings["item-5"]["paragraph-7"]}
-                  <br />
-                  {strings["item-5"]["paragraphTitle-8"]}
-                  <br />
-                  {strings["item-5"]["paragraph-8"]}
-                  <br />
-                  {strings["item-5"]["paragraph-9"]}
+                  <span>
+                    {strings["item-5"]["paragraph-7"]}
+                    <br />
+                    {strings["item-5"]["paragraphTitle-8"]}
+                    <br />
+                    {strings["item-5"]["paragraph-8"]}
+                    <br />
+                    {strings["item-5"]["paragraph-9"]}
+                  </span>
                   <br />
                   <br />
                   {strings["item-5"]["listTitle-4"]}
                   <br />
-                 <span>
-                 {strings["item-5"]["list-4"]}
-                  <br />
-                  {strings["item-5"]["list-5"]}
-                  <br />
-                  {strings["item-5"]["list-6"]}
-                 </span>
+                  <span>
+                    {strings["item-5"]["list-4"]}
+                    <br />
+                    {strings["item-5"]["list-5"]}
+                    <br />
+                    {strings["item-5"]["list-6"]}
+                  </span>
                   <br />
                   {strings["item-5"]["paragraph-10"]}
                   <br />
@@ -285,25 +298,28 @@ const Privacy = ({ strings }) => {
                   {strings["item-5"]["paragraph-12"]}
                   <br />
                   <br />
-                  <strong> {strings["item-5"]["paragraphTitle-13"]}</strong>
+                  {strings["item-5"]["paragraphTitle-13"]}
                   <br />
                   {strings["item-5"]["paragraph-14"]}
                   <br />
                   <br />
                   {strings["item-5"]["paragraph-15"]}
                   <br />
-                  {strings["item-5"]["paragraph-16"]}
-                  <br />
-                  {strings["item-5"]["paragraph-17"]}
-                  <br />
-                  {strings["item-5"]["paragraph-18"]}
-                  <br />
-                  <br />
-                  {strings["item-5"]["paragraph-19"]}
-                  <br />
-                  {strings["item-5"]["paragraph-20"]}
-                  <br />
-                  {strings["item-5"]["paragraph-21"]}
+                  <span>
+                    {strings["item-5"]["paragraph-16"]}
+                    <br />
+                    {strings["item-5"]["paragraph-17"]}
+                    <br />
+                    {strings["item-5"]["paragraph-18"]}
+                  </span>
+                  <span>
+                    <br />
+                    {strings["item-5"]["paragraph-19"]}
+                    <br />
+                    {strings["item-5"]["paragraph-20"]}
+                    <br />
+                    {strings["item-5"]["paragraph-21"]}
+                  </span>
                   <br />
                   <br />
                   {strings["item-5"]["list-7"]}
@@ -341,7 +357,8 @@ const Privacy = ({ strings }) => {
                   {strings["item-6"]["paragraph-2"]}
                   <br />
                   {strings["item-6"]["paragraph-3"]}
-                  <br /><br />
+                  <br />
+                  <br />
                   <span>
                     {strings["item-6"]["paragraph-4"]}
                     <br />
@@ -363,15 +380,16 @@ const Privacy = ({ strings }) => {
                     <br />
                     {strings["item-6"]["paragraph-13"]}
                     <br />
+                    {strings["item-6"]["paragraph-13.5"]}
+
+                    <br />
                     {strings["item-6"]["paragraph-14"]}
                     <br />
                     {strings["item-6"]["paragraph-15"]}
                     <br />
                     {strings["item-6"]["paragraph-16"]}
                     <br />
-                    <strong>
                     {strings["item-6"]["paragraph-strong-17"]}
-                    </strong>
                     {strings["item-6"]["paragraph-17"]}
                   </span>
                 </p>

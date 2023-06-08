@@ -4,7 +4,6 @@
   z-index: 0;
   flex-grow: 1;
   display: flex;
-
   .autoContainer {
     width: 100%;
     & > div {
@@ -14,9 +13,8 @@
   &__inner {
     display: flex;
     align-items: center;
-    padding: 120px 0;
+    padding: 195px 0;
     position: relative;
-
     &-info {
       position: relative;
       z-index: 1;
@@ -84,7 +82,7 @@
 @mixin contact-1160 {
   .map {
     &__inner {
-      padding: 100px 0;
+      padding: 190px 0;
       &-info {
         margin: 0;
       }
@@ -121,7 +119,6 @@
     }
   }
 }
-
 @mixin contact-560 {
   .map {
     &__inner {

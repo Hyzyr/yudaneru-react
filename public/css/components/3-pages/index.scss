@@ -261,7 +261,7 @@
   &__inner {
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content:center;
     &-info {
       display: flex;
       flex-direction: column;
@@ -296,8 +296,8 @@
   }
   &__slider {
     position: relative;
-    width: calc(100% - 400px);
-    max-width: 670px;
+    width: 100%;
+    max-width: 700px;
     margin: 0 !important;
     z-index: 0;
 

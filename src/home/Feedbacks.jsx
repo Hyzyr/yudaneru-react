@@ -7,7 +7,8 @@ import { fortuneSVG } from "components/SVG";
 
 const swiperSettings = {
   loop: true,
-  effect: "fade",
+  // effect: "fade",
+  // allowTouchMove: false,
   spaceBetween: 0,
   centeredSlides: true,
   slidesPerView: 1,
@@ -21,11 +22,11 @@ const Feedbacks = ({ strings }) => {
     <section className="feedbacks">
       <div className="autoContainer">
         <div className="feedbacks__inner">
-          <div className="feedbacks__inner-info">
+          {/* <div className="feedbacks__inner-info">
             <strong>{strings.caption}</strong>
             <h2>{strings.title}</h2>
             <p>{strings.paragraph}</p>
-          </div>
+          </div> */}
           <div className="feedbacks__slider">
             <Swiper
               modules={[Navigation, EffectFade]}
@@ -54,12 +55,12 @@ const Feedbacks = ({ strings }) => {
                 </div>
               </SwiperSlide>
             </Swiper>
-            <div className="swiper-arrow swiper-arrow-prev" ref={prev}>
+            {/* <div className="swiper-arrow swiper-arrow-prev" ref={prev}>
               <span className="custIcon custIcon--left"></span>
             </div>
             <div className="swiper-arrow swiper-arrow-next" ref={next}>
               <span className="custIcon custIcon--right"></span>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>

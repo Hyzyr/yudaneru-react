@@ -9,7 +9,7 @@
   "hero": {
     "caption": "FIND WHAT YOU NEED",
     "title": "Fully Invested in Your Objectives ",
-    "paragraph": "As a licensed real estate asset manager in Japan, we understand the complexities of navigating this market, won’t you let us help you.",
+    "paragraph": "As a licensed real estate asset manager in Japan, we understand the complexities of navigating this market,won’t you let us help you?",
     "button": "Contact Us"
   },
   "whyUs": {
@@ -36,11 +36,11 @@
     },
     "item-2": {
       "title": "Asset Management",
-      "paragraph": "As a licensed real estate asset manager we are able to efficiently tax structure your investment"
+      "paragraph": "As a licensed real estate asset manager we are able to properly structure your investment, potentially providing an opportunity for savings."
     },
     "item-3": {
       "title": "Financial Advisory",
-      "paragraph": "Development, renovation or non-recourse financing we can help point you in the right direction. "
+      "paragraph": "Financing is a key component of any real estate project, we can help point you in the right direction. "
     }
   },
   "wayInvest": {
@@ -58,9 +58,9 @@
       "button": "Contact Us"
     },
     "item-3": {
-      "title": "Tax",
-      "titleBr": "Structuring",
-      "paragraph": "A proper tax structure, can make for proper savings, we are licensed and ready to help.",
+      "title": "Structuring",
+      "titleBr": " ",
+      "paragraph": "A proper structure, can make for proper savings, we are licensed and ready to help.",
       "button": "Contact Us"
     }
   },
@@ -69,13 +69,13 @@
     "title": "1 ",
     "paragraph": "Even if we had a client list a mile long, our aim is to treat every client as our very first",
     "item-1": {
-      "paragraph": "Japan being an island nation with such a rich culture, navigating it can present its own challenges. Thus making it that much more important to rely on the insights and experiences of those in the field"
+      "paragraph": "“ Japan being an island nation with such a rich culture, navigating it can present its own challenges. Thus making it that much more important to rely on the insights and experiences of those in the field“ "
     },
     "item-2": {
-      "paragraph": "Lorem ipsum dolor sit amet. Est sequi debitis id asperiores ullam et libero corporis id blanditiis sequi a possimus voluptas vel dolorem quia eum quam voluptates."
+      "paragraph": "“ Lorem ipsum dolor sit amet. Est sequi debitis id asperiores ullam et libero corporis id blanditiis sequi a possimus voluptas vel dolorem quia eum quam voluptates.“ "
     },
     "item-3": {
-      "paragraph": "Lorem ipsum dolor sit amet. Est sequi debitis id asperiores ullam et libero corporis id blanditiis sequi a possimus voluptas vel dolorem quia eum quam voluptates."
+      "paragraph": "“ Lorem ipsum dolor sit amet. Est sequi debitis id asperiores ullam et libero corporis id blanditiis sequi a possimus voluptas vel dolorem quia eum quam voluptates.“ "
     }
   },
   "footer": {
@@ -190,7 +190,7 @@
     },
     "item-8": {
       "title": "Memberships",
-      "paragraph": "Japan Investment Advisers Association"
+      "paragraph": "All Japan Real Estate Association"
     },
     "item-9": {
       "title": "Registrations, licenses, etc.",
@@ -206,15 +206,15 @@
     "title": "Our Achievement",
     "paragraph": "Grateful for all the projects that our clients have allowed us to join, yet hopeful that the momentum keeps going.",
     "item-1": {
-      "title": "7,719M+",
+      "title": "7,719円",
       "paragraph": "Total Transaction Value"
     },
     "item-2": {
-      "title": "15,869+",
+      "title": "15,869㎡",
       "paragraph": "Total Building Size"
     },
     "item-3": {
-      "title": "4,643+",
+      "title": "4,643㎡",
       "paragraph": "Total Land Size"
     },
     "item-4": {
@@ -236,7 +236,7 @@
     "item-2": {
       "title": "Mixed Use Asset",
       "paragraphStrong-1": "LOCATION:",
-      "paragraph-1": "Akashichou, Hiratsuka shi, Kanagawa",
+      "paragraph-1": "Akashi chou, Hiratsuka shi, Kanagawa",
       "paragraphStrong-2": "SECTOR:",
       "paragraph-2": "Multifamily, Office, Retail",
       "paragraphStrong-3": "SIZE:",
@@ -245,7 +245,7 @@
     "item-3": {
       "title": "Multifamily Asset",
       "paragraphStrong-1": "LOCATION:",
-      "paragraph-1": "Nihonbashitomizawacho, Chuo ku, Tokyo",
+      "paragraph-1": "Nihonbashi Tomizawa cho, Chuo ku, Tokyo",
       "paragraphStrong-2": "SECTOR:",
       "paragraph-2": "Office / Business Park",
       "paragraphStrong-3": "SIZE:",
@@ -263,7 +263,7 @@
     "item-5": {
       "title": "Hospitality Asset",
       "paragraphStrong-1": "LOCATION:",
-      "paragraph-1": "Showaminamidori, Amagasaki, Hyogo ",
+      "paragraph-1": "Showa Minamidori, Amagasaki, Hyogo ",
       "paragraphStrong-2": "SECTOR:",
       "paragraph-2": "Hospitality",
       "paragraphStrong-3": "SIZE:",
@@ -326,7 +326,9 @@
       "tab-1": "Solicitation Policy",
       "tab-2": "Privacy Policy",
       "tab-3": "Anti-Social Forces Policy",
-      "tab-4": "Dispute Handling Policy"
+      "tab-4": "Dispute Handling Policy",
+      "tab-5":"Financial Instruments and Exchange Law Explanatory Items under Dispute Handling Policy"
+
     },
     "item-1": {
       "title": "Policy",
@@ -337,14 +339,14 @@
     "item-2": {
       "title": "Solicitation Policy",
       "subtitle": "Pursuant to Article 10 of the Act on the Provision of Financial Services, we have established and publicly announced our solicitation policy for sales of financial products as follows.",
-      "paragraph-1": "1 Basic stance on solicitation (matters to be taken into consideration in light of the knowledge, experience and status of property of the person subject to the solicitation of sales, and the purpose for the conclusion of the contract pertaining to the sale of the financial instruments.)",
+      "paragraph-1": "Basic stance on solicitation (matters to be taken into consideration in light of the knowledge, experience and status of property of the person subject to the solicitation of sales, and the purpose for the conclusion of the contract pertaining to the sale of the financial instruments.)",
       "paragraph-2": "1) The Company shall endeavor to provide appropriate advice and explanations in light of the customer's knowledge, investment experience, financial situation, and investment objectives. ",
       "paragraph-3": "2) The Company will endeavor to provide advice and explanations based on appropriate methods regarding important matters such as product details, risk details, and commissions in order for clients to trade at their own discretion and responsibility. ",
       "paragraph-4": "3) The Company will not provide customer with definitive judgments or information that is not true.",
       "paragraph-5": "Matters to be taken into consideration for the person subject to the solicitation of sales with regard to the means and timing of solicitation of sales.",
       "paragraph-6": "1) The Company will endeavor to provide accurate information on financial products, comply with the Financial Instruments and Exchange Law and other related laws and regulations, and conduct appropriate solicitation in accordance with such laws and regulations.",
       "paragraph-7": "2) The Company will endeavor to conduct solicitation at appropriate times and places in accordance with the wishes and requests of our customer.",
-      "paragraph-8": "2 Matters for ensuring the appropriate solicitation of sales.",
+      "paragraph-8": "Matters for ensuring the appropriate solicitation of sales.",
       "paragraph-9": "1) In order to ensure proper solicitation of clients, the Company shall provide sufficient training to our employees and endeavor to maintain an internal system.",
       "paragraph-10": "2) The Company shall endeavor to respond in good faith to complaints and requests from customers."
     },
@@ -368,16 +370,16 @@
       "list-8": "2)To provide with information that will be useful in connection with all of Our Company's business activities.",
       "paragraphTitle-4": "3. Shared use of customers' Personal Data among group companies",
       "paragraph-4": "We may share your Personal Data with our group companies around the world in order to provide efficient and reliable services and to increase your choice of products and services. When we share your Personal Data, we will be responsible for managing it, and the items of Personal Data shared will be limited to what is necessary for the purpose for which it is shared.",
-      "paragraphTitle-5": "Provision of Personal Information to third parties",
+      "paragraphTitle-5": "4.Provision of Personal Information to third parties",
       "paragraph-5": "We will not provide Personal Information to third parties except in the following cases",
       "list-9": "A) When the customer has given consent",
       "list-10": "B) When required by law",
       "list-11": "C) When the Company provides Personal Information to a subcontractor to the extent necessary for the performance of its business operations. In the event that we outsource the handling of Personal Information to a third party, we will establish criteria for the selection of the outsourced company and conduct necessary and appropriate supervision to ensure that appropriate security control measures are taken by the outsourced company in advance.",
-      "paragraphTitle-6": "Security control of Personal Information",
+      "paragraphTitle-6": "5.Security control of Personal Information",
       "paragraph-6": "In handling Personal Information, we take appropriate security control measures and maintain a necessary and appropriate system for the protection of Personal Information.  In addition, we will continuously instruct and educate all employees on the handling of Personal Information.",
-      "paragraphTitle-7": "Procedures for Disclosure, Correction, Deletion, etc. of Personal Information",
-      "paragraph-7": "Upon receiving a request for disclosure, correction, etc. (correction, addition, or deletion), elimination, suspension of use, or suspension of provision to a third party of Personal Information, we will respond appropriately and promptly after confirming the identity of the person making such a request.  In the case of a request by a representative, the 'Request Form for Disclosure of Personal Information' and 'Letter of Proxy' must be submitted to confirm that the request is made by the principal and that the representative has the authority to act on behalf of the principal.  A disclosure fee of 1,000 yen (including consumption tax) will be charged per disclosure. Please contact the '7. Personal Information Consultation Desk' below for specific procedures and other information",
-      "paragraphTitle-8": "Contact for Personal Information Consultation, etc.",
+      "paragraphTitle-7": "6.Procedures for Disclosure, Correction, Deletion, etc. of Personal Information",
+      "paragraph-7": "Upon receiving a request for disclosure, correction, etc. (correction, addition, or deletion), elimination, suspension of use, or suspension of provision to a third party of Personal Information, we will respond appropriately and promptly after confirming the identity of the person making such a request.  In the case of a request by a representative, the 'Request Form for Disclosure of Personal Information' and 'Letter of Proxy' must be submitted to confirm that the request is made by the principal and that the representative has the authority to act on behalf of the principal.  A disclosure fee of 1,000 yen (including consumption tax) will be charged per disclosure. Please contact the 'Personal Information Consultation Desk' below for specific procedures and other information. ",
+      "paragraphTitle-8": "7.Contact for Personal Information Consultation, etc.",
       "paragraph-8": "Complaints and questions regarding the Company's handling of Personal Information will be handled appropriately and should be directed to the following contact point.",
       "paragraph-9": "Contact for Inquiries",
       "paragraph-10": "Phone 03-4510-3380",
@@ -393,12 +395,12 @@
       "paragraph-2": "1. Our Company shall endeavor to take company-wide actions against anti-social forces.",
       "paragraph-3": "2. Our Company shall build on-going and close relationships with the external specialized organizations.",
       "paragraph-4": "3. Our Company shall reject any relationship or transactions with anti-social forces.",
-      "paragraph-6": "4. Our Company shall resolutely reject any unreasonable demand from anti-social forces and take legal actions under civil and criminal codes if necessary.",
-      "paragraph-5": "5. Our Company shall not negotiate any under-the-table deals or provide funds to anti-social forces to resolve any kind of issue."
+      "paragraph-5": "4. Our Company shall resolutely reject any unreasonable demand from anti-social forces and take legal actions under civil and criminal codes if necessary.",
+      "paragraph-6": "5. Our Company shall not negotiate any under-the-table deals or provide funds to anti-social forces to resolve any kind of issue."
     },
     "item-5": {
       "title": "Dispute Handling Policy",
-      "paragraphTitle-1": "１Complaint handling by the Company",
+      "paragraphTitle-1": "１.Complaint handling by the Company",
       "paragraph-1": "We have established 'Complaint and Dispute Handling Regulations', and we are committed to responding sincerely and promptly to complaints from our customers, etc., and to gain their understanding.",
       "listTitle-1": "The standard flow of complaint resolution by the Company is as follows: ",
       "list-1": "1.Receipt of complaints, etc. from customers",
@@ -407,8 +409,8 @@
       "paragraph-2": "Consultation on Complaints, etc. Concerning the Financial Instruments Business",
       "paragraph-3": "Compliance Desk Phone number：03－4510-3380",
       "paragraph-4": "(Monday through Friday, 10:00 a.m. to 5:00 p.m. excluding national holidays) ",
-      "paragraph-5": "Non-profit organization: Financial Instruments Mediation Assistance Center (FINMAC) for complaint resolution",
-      "paragraph-6": "The Company will also attempt to resolve complaints through Financial Instruments Mediation Assistance Center (FINMAC).",
+      "paragraph-5": "For complaint resolution, contact Financial Instruments Mediation Assistance Center (FINMAC)..",
+      "paragraph-6": "T The Company will also attempt to resolve complaints through Financial Instruments Mediation Assistance Center (FINMAC).",
       "paragraphTitle-7": "Investment Advisory and Agency Business",
       "paragraph-7": "Japan Investment Advisers Association entrusted FINMAC with the complaint resolution business",
       "paragraphTitle-8": "Type II Financial Instruments Business",
@@ -421,16 +423,16 @@
       "paragraph-10": "FINMAC Consultation Service",
       "paragraph-11": "Financial Instruments Mediation Assistance Center (FINMAC)",
       "paragraph-12": "(Monday through Friday, 9:00 a.m. to 5:00 p.m., excluding national holidays)",
-      "paragraphTitle-13": "2.About dispute resolution by the Company",
+      "paragraphTitle-13": "About dispute resolution by the Company",
       "paragraph-13": "Dispute Resolution by FINMAC",
       "paragraph-14": "We seek to resolve disputes through mediation conducted by FINMAC.",
       "paragraph-15": "Investment Advisory and Agency Business",
       "paragraph-16": "Business entrusted to FINMAC by the Japan Investment Advisers Association",
       "paragraph-17": "Type II Financial Instruments Business",
-      "paragraph-18": "Measures to use FINMAC as an Individual.",
+      "paragraph-18": "See Measures to use FINMAC as an Individual.",
       "paragraph-19": "Disputes are resolved through mediation procedures by FINMAC's mediation committee members.",
 
-      "paragraph-20": ".  If you wish to use FINMAC to resolve a dispute with us, please contact the 'FINMAC Consultation Service'.",
+      "paragraph-20": "If you wish to use FINMAC to resolve a dispute with us, please contact the 'FINMAC Consultation Service'..",
       "paragraph-21": "The following is the standard flow for dispute resolution conducted by FINMAC. For more information, please contact FINMAC.",
       "list-7": "1. Submission of a mediation petition by the customer",
       "list-8": "2. Receipt of mediation petition and appointment of mediation committee members",
@@ -447,8 +449,8 @@
       "paragraphStrong": "Nam veritatis consequatur est omnis debitis At consequatur earum:"
     },
     "item-6": {
-      "title": "Explanatory Items under the Financial Instruments and Exchange Law",
-      "paragraph-1": "1. Fees, etc. pertaining to financial instruments transaction contracts Remuneration and other fees, etc. to be paid by customers in connection with financial instruments transaction contracts differ for each financial instrument and will be determined through consultations based on the details of each financial instrument, such as the form of contract, etc. Please contact us for specific details.",
+      "title": "Financial Instruments and Exchange Law Explanatory Items ",
+      "paragraph-1": " 1. Fees related to financial instruments transaction contracts, remuneration and other fees to be paid by the customer differs by financial instrument and will be determined through consultation. Please contact us for specific details.",
       "paragraph-2": "2. We may decline transactions depending on the customer's knowledge, investment experience, financial situation, and investment objectives.",
       "paragraph-3": "3. The financial instruments we handle are products with the following risks. The risks listed below may require additional investment, etc., and may result in losses in excess of the principal amount invested.",
       "paragraph-4": "* There is a risk that we may not be able to acquire or sell real estate ('real estate'), which are substantial investment assets, as planned.",
@@ -460,7 +462,8 @@
       "paragraph-10": "* There is a risk that the value of the real estate may decrease due to expropriation of land, rezoning, etc. based on urban planning decisions, etc.",
       "paragraph-11": "* There is a risk that expenses will be incurred due to lawsuits with tenants of the real estate, neighboring landowners, etc.",
       "paragraph-12": "* There is a risk that expenses will be incurred due to repairs caused by age-related deterioration or defects of real estate.",
-      "paragraph-13": "* When planning reconstruction of real estate (buildings), etc., there is a risk that the same level of construction as at present may not be possible due to future revisions of laws and regulations, etc. * There is a risk that expenses may be incurred for repairs due to deterioration or defects in real estate over time. In addition, there is a risk that buildings that were constructed to be qualified at the time of construction may become existing nonconforming due to future revisions of laws and ordinances, etc.",
+      "paragraph-13": "* When planning reconstruction of real estate (buildings), etc., there is a risk that the same level of construction as at present may not be possible due to future revisions of laws and regulations, etc. ",
+      "paragraph-13.5" :"* There is a risk that expenses may be incurred for repairs due to deterioration or defects in real estate over time. In addition, there is a risk that buildings that were constructed to be qualified at the time of construction may become existing nonconforming due to future revisions of laws and ordinances, etc.",
       "paragraph-14": "* The value of real estate may decrease due to soil contamination, etc., or expenses may be incurred to remove soil contamination.",
       "paragraph-15": "* The initially projected revenues may fall below the forecast due to a decrease in the occupancy rate of the real estate, nonpayment of rent by tenants, downward revision of rent due to a decline in the market rent, or an increase in management costs, etc.",
       "paragraph-16": "* There is a risk that taxes and public charges (fixed property tax and city planning tax) related to real estate may increase in the future.",

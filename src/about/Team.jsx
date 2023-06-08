@@ -20,7 +20,7 @@ const Team = ({ strings }) => {
                   <p className="_sm">{strings["item-1"].job}</p>
                 </div>
                 <div className="gridItem__info-social">
-                  <a href="linkedin.com/in/frankmfernandeziii " className="button button--icon smIcon">
+                  <a href="https://linkedin.com/in/frankmfernandeziii " className="button button--icon smIcon">
                     {linkedinSvg}
                   </a>
                 </div>

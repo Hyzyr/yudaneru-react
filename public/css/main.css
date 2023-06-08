@@ -826,6 +826,7 @@ svg {
   color: rgba(255, 255, 255, 0.6);
   -webkit-transition: 0.2s ease-out;
   transition: 0.2s ease-out;
+  width: 250px;
 }
 .footer__copyright a:hover {
   color: #fff;
@@ -1230,6 +1231,9 @@ svg {
   -webkit-box-align: start;
       -ms-flex-align: start;
           align-items: flex-start;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
 }
 .grid--invest .gridItem h4 {
   margin-bottom: 16px;
@@ -1766,9 +1770,9 @@ svg {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
 }
 .feedbacks__inner-info {
   display: -webkit-box;
@@ -1807,8 +1811,8 @@ svg {
 }
 .feedbacks__slider {
   position: relative;
-  width: calc(100% - 400px);
-  max-width: 670px;
+  width: 100%;
+  max-width: 700px;
   margin: 0 !important;
   z-index: 0;
 }
@@ -2173,7 +2177,7 @@ svg {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  padding: 120px 0;
+  padding: 195px 0;
   position: relative;
 }
 .map__inner-info {
@@ -2424,7 +2428,7 @@ svg {
   }
 
   .map__inner {
-    padding: 100px 0;
+    padding: 190px 0;
   }
   .map__inner-info {
     margin: 0;
@@ -2858,6 +2862,10 @@ svg {
   .footer__inner-social {
     width: 100%;
     max-width: 400px;
+  }
+  .footer__copyright a {
+    width: calc(100% - 300px);
+    text-align: center;
   }
 
   .hero {
@@ -3530,6 +3538,9 @@ svg {
         -ms-flex-direction: column-reverse;
             flex-direction: column-reverse;
     gap: 0.5em;
+  }
+  .footer__copyright a {
+    width: auto;
   }
 
   .whyUs__list {

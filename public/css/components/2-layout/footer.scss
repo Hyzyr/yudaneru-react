@@ -97,6 +97,7 @@
       color: rgba($white, 0.6);
       transition: 0.2s ease-out;
 
+      width: 250px;
       &:hover {
         color: $white;
       }
@@ -120,6 +121,7 @@
     &__inner {
       padding: 80px 0;
     }
+   
   }
 }
 @mixin footer-940 {
@@ -137,9 +139,14 @@
         max-width: 400px;
       }
     }
+    &__copyright{
+      a{
+        width: calc(100% - 300px);
+        text-align: center;
+      }
+    }
   }
 }
-
 @mixin footer-560 {
   .footer {
     &__inner {
@@ -183,6 +190,9 @@
       font-size: 10px;
       flex-direction: column-reverse;
       gap: 0.5em;
+      a{
+      width: auto;
+      }
     }
   }
 }
