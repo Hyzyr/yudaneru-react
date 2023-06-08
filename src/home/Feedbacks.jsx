@@ -8,7 +8,6 @@ import { fortuneSVG } from "components/SVG";
 const swiperSettings = {
   loop: true,
   // effect: "fade",
-  // allowTouchMove: false,
   spaceBetween: 0,
   centeredSlides: true,
   slidesPerView: 1,
