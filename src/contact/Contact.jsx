@@ -12,8 +12,15 @@ const Contact = ({ strings }) => {
         <div className="autoContainer">
           <div className="map__inner">
             <div className="map__inner-info">
-              <h3>{infoString.title}</h3>
-              <p>{infoString.paragraph}</p>
+              <h3>{infoString.title}
+                <span className="noBreak">
+                {infoString.breakTitle}
+                </span>
+              </h3>
+              <p>{infoString.paragraph}
+              <span className="noBreak">
+                {infoString.breakParagraph}
+                </span></p>
               <ul>
                 <li>
                   <span>{mapPinSVG}</span>

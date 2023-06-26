@@ -12,8 +12,16 @@ const RoadLine = ({ strings }) => {
                 <span>2002</span>
               </div>
               <div className="roadmap__item-content">
-                <strong>{strings["item-1"].title}</strong>
-                <p>{strings["item-1"].paragraph}</p>
+                <strong>{strings["item-1"].title}
+                <span className="noBreak">
+                {strings["item-1"].break}
+                </span>
+                </strong>
+                <p>{strings["item-1"].paragraph}
+                  <span className="noBreak">
+                    {strings["item-2"].breakParagraph}
+                  </span>
+                </p>
               </div>
             </div>
             <div className="roadmap__item">
@@ -21,8 +29,16 @@ const RoadLine = ({ strings }) => {
                 <span>2008</span>
               </div>
               <div className="roadmap__item-content">
-                <strong>{strings["item-2"].title}</strong>
-                <p>{strings["item-2"].paragraph}</p>
+                <strong>{strings["item-2"].title}
+                <span className="noBreak">
+                {strings["item-2"].break}
+                </span>
+                </strong>
+                <p>{strings["item-2"].paragraph}
+                  <span className="noBreak">
+                    {strings["item-2"].breakParagraph}
+                  </span>
+                </p>
               </div>
             </div>
             <div className="roadmap__item">
@@ -30,8 +46,16 @@ const RoadLine = ({ strings }) => {
                 <span>2010</span>
               </div>
               <div className="roadmap__item-content">
-                <strong>{strings["item-3"].title}</strong>
-                <p>{strings["item-3"].paragraph}</p>
+                <strong>{strings["item-3"].title}
+                <span className="noBreak">
+                {strings["item-3"].break}
+                </span>
+                </strong>
+                <p>{strings["item-3"].paragraph}
+                  <span className="noBreak">
+                    {strings["item-3"].breakParagraph}
+                  </span>
+                </p>
               </div>
             </div>
             <div className="roadmap__item">
@@ -40,7 +64,11 @@ const RoadLine = ({ strings }) => {
               </div>
               <div className="roadmap__item-content">
                 <strong>{strings["item-4"].title}</strong>
-                <p>{strings["item-4"].paragraph}</p>
+                <p>{strings["item-4"].paragraph}
+                  <span className="noBreak">
+                    {strings["item-4"].breakParagraph}
+                  </span>
+                </p>
               </div>
             </div>
           </div>

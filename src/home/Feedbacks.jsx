@@ -21,11 +21,6 @@ const Feedbacks = ({ strings }) => {
     <section className="feedbacks">
       <div className="autoContainer">
         <div className="feedbacks__inner">
-          {/* <div className="feedbacks__inner-info">
-            <strong>{strings.caption}</strong>
-            <h2>{strings.title}</h2>
-            <p>{strings.paragraph}</p>
-          </div> */}
           <div className="feedbacks__slider">
             <Swiper
               modules={[Navigation, EffectFade]}
@@ -40,26 +35,29 @@ const Feedbacks = ({ strings }) => {
             >
               <SwiperSlide>
                 <div className="feedbacks__slider-item">
-                  <p>{strings["item-1"].paragraph}</p>
+                  <p>
+                    {strings["item-1"].paragraph}
+                    <span className="noBreak">{strings["item-1"].break}</span>
+                  </p>
                 </div>
               </SwiperSlide>
               <SwiperSlide>
                 <div className="feedbacks__slider-item">
-                  <p>{strings["item-2"].paragraph}</p>
+                  <p>
+                    {strings["item-2"].paragraph}
+                    <span className="noBreak">{strings["item-1"].break}</span>
+                  </p>
                 </div>
               </SwiperSlide>
               <SwiperSlide>
                 <div className="feedbacks__slider-item">
-                  <p>{strings["item-3"].paragraph}</p>
+                  <p>
+                    {strings["item-3"].paragraph}
+                    <span className="noBreak">{strings["item-1"].break}</span>
+                  </p>
                 </div>
               </SwiperSlide>
             </Swiper>
-            {/* <div className="swiper-arrow swiper-arrow-prev" ref={prev}>
-              <span className="custIcon custIcon--left"></span>
-            </div>
-            <div className="swiper-arrow swiper-arrow-next" ref={next}>
-              <span className="custIcon custIcon--right"></span>
-            </div> */}
           </div>
         </div>
       </div>

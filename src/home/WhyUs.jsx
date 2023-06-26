@@ -34,8 +34,15 @@ const WhyUs = ({ strings }) => {
             </div>
           </div>
           <div className="whyUs__inner-content">
-            <h2>{strings.title}</h2>
-            <p>{strings.paragraph}</p>
+            <h2>
+              {strings.title}
+              <span className="noBreak">{strings.breakTitle}</span>
+            </h2>
+            <p>{strings.paragraph}
+            <span className="noBreak">
+                  {strings.breakParagraph}
+                  </span>
+            </p>
             <ul className="whyUs__list">
               <li className="whyUs__list-item">
                 <div className="whyUs__list-item-icon">
@@ -44,8 +51,17 @@ const WhyUs = ({ strings }) => {
                     alt="chooseUsIcon-1"
                   />
                 </div>
-                <h4 className="_sm">{strings["item-1"].title}</h4>
-                <p>{strings["item-1"].paragraph}</p>
+                <h4 className="_sm">
+                <span className="noBreak">
+                {strings["item-1"].breakTitle}
+                </span>
+                </h4>
+                <p>
+                  {strings["item-1"].paragraph}
+                  <span className="noBreak">
+                  {strings["item-1"].breakParagraph}
+                  </span>
+                </p>
               </li>
               <li className="whyUs__list-item">
                 <div className="whyUs__list-item-icon">
@@ -54,8 +70,14 @@ const WhyUs = ({ strings }) => {
                     alt="chooseUsIcon-2"
                   />
                 </div>
-                <h4 className="_sm">{strings["item-3"].title}</h4>
-                <p>{strings["item-3"].paragraph}</p>
+                <h4 className="_sm">{strings["item-3"].title}
+                {strings["item-3"].breakTitle}
+                </h4>
+                <p>{strings["item-3"].paragraph}
+                <span className="noBreak">
+                  {strings["item-3"].breakParagraph}
+                  </span>
+                </p>
               </li>
               <li className="whyUs__list-item">
                 <div className="whyUs__list-item-icon">
@@ -64,8 +86,15 @@ const WhyUs = ({ strings }) => {
                     alt="chooseUsIcon-3"
                   />
                 </div>
-                <h4 className="_sm">{strings["item-2"].title}</h4>
-                <p>{strings["item-2"].paragraph}</p>
+                <h4 className="_sm">{strings["item-2"].title}
+                {strings["item-2"].breakTitle}
+                
+                </h4>
+                <p>{strings["item-2"].paragraph}
+                <span className="noBreak">
+                  {strings["item-2"].breakParagraph}
+                  </span>
+                </p>
               </li>
             </ul>
           </div>

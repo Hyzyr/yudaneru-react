@@ -39,11 +39,11 @@ const Overview = ({ strings }) => {
                 <h6 className="_sm">{strings["item-4"].title}</h6>
               </div>
               <div className="overviewContent">
-                <p>{strings["item-4"].paragraph}</p>
-                {/* <button className="button">
-                  {strings["item-4"].button}
-                  <span>{topRightArrSVG}</span>
-                </button> */}
+                <p>{strings["item-4"].paragraph}
+                <span className="noBreak">
+                {strings["item-4"].break}
+                </span>
+                </p>
               </div>
             </div>
             <div className="overview__inner-row">
@@ -52,10 +52,6 @@ const Overview = ({ strings }) => {
               </div>
               <div className="overviewContent">
                 <p>{strings["item-5"].paragraph}</p>
-                {/* <button className="button">
-                  {strings["item-5"].button}
-                  <span>{topRightArrSVG}</span>
-                </button> */}
               </div>
             </div>
             <div className="overview__inner-row">
@@ -63,11 +59,11 @@ const Overview = ({ strings }) => {
                 <h6 className="_sm">{strings["item-6"].title}</h6>
               </div>
               <div className="overviewContent">
-                <p>{strings["item-6"].paragraph}</p>
-                {/* <button className="button">
-                  {strings["item-6"].button}
-                  <span>{topRightArrSVG}</span>
-                </button> */}
+                <p>{strings["item-6"].paragraph}
+                <span className="noBreak">
+                {strings["item-6"].break}
+                </span>
+                </p>
               </div>
             </div>
             <div className="overview__inner-row">
@@ -75,7 +71,11 @@ const Overview = ({ strings }) => {
                 <h6 className="_sm">{strings["item-7"].title}</h6>
               </div>
               <div className="overviewContent">
-                <p>{strings["item-7"].paragraph}</p>
+                <p>{strings["item-7"].paragraph}
+                <span className="noBreak">
+                {strings["item-7"].break}
+                </span>
+                </p>
               </div>
             </div>
             <div className="overview__inner-row">
@@ -83,7 +83,11 @@ const Overview = ({ strings }) => {
                 <h6 className="_sm">{strings["item-8"].title}</h6>
               </div>
               <div className="overviewContent">
-                <p>{strings["item-8"].paragraph}</p>
+                <p>{strings["item-8"].paragraph}
+                <span className="noBreak">
+                {strings["item-8"].break}
+                </span>
+                </p>
               </div>
             </div>
           </div>

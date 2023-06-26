@@ -13,7 +13,11 @@ const Performance = ({ strings }) => {
           <div className="grid__inner">
             <div className="grid__inner-header">
               <h2>{stringsAchievement.title}</h2>
-              <p>{stringsAchievement.paragraph}</p>
+              <p>{stringsAchievement.paragraph}
+              <span className="noBreak">
+              {stringsAchievement["break-1"]}
+              </span>
+              </p>
             </div>
             <div className="grid__inner-row">
               <div className="gridItem">

@@ -10,6 +10,7 @@ const Hero = ({ strings }) => {
             <h1>{strings.title}</h1>
             <p>
               {strings["paragraph-1"]}
+              <span className="noBreak">{strings.breakParagraph}</span>
               <br />
               <br />
               {strings["paragraph-2"]}
