@@ -23,7 +23,7 @@ const Services = ({ strings }) => {
                 </h4>
                 <p>{strings["item-1"].paragraph}
                   <span className="noBreak">
-                    {strings["item-2"].breakParagraph}
+                    {strings["item-1"].breakParagraph}
                   </span>
                 </p>
               </div>

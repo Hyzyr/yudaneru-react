@@ -7,7 +7,7 @@
     "privacyPolic": "プライバシーポリシ―"
   },
   "hero": {
-    "caption": "お客様に最適な物件を提供。",
+    "caption": "お客様に最適な物件を提供",
     "title": "私たちは、お客様の目的を達成するため注力",
     "paragraph": "私たちは、日本の複雑な不動産市場を理解している実績ある不動産会社です。是非、私たちにお手伝いをさせていただけま",
     "button": "お問い合わせ",
@@ -17,8 +17,8 @@
   },
   "whyUs": {
     "title": "私たちを選",
-    "paragraph": "何か大きなことを成し遂げるには、自分より大きなもの、つまり、チームへの信頼、柔軟性、絶え間ない努力の上に成り立っている必要があ。",
-    "breakParagraph": "ります",
+    "paragraph": "何か大きなことを成し遂げるには、自分より大きなもの、つまり、チームへの信頼、柔軟性、絶え間ない努力の上に成り立っている必要があ",
+    "breakParagraph": "ります。",
     "breakTitle": "ぶ理由",
     "item-1": {
       "title": "良識",
@@ -40,13 +40,13 @@
     }
   },
   "service": {
-    "title": "私たちがお手伝いします",
+    "title": "私たちがお手伝い",
     "breakTitle": "します",
     "item-1": {
-      "title": "不動産仲介業",
-      "paragraph": "私たちは、宅地建物取引業と第二種金融商品取引業（第二種及び投資助言・代理業）の登録をしておりますので、不動産の売買、不動産信託受益権売買を取扱いでき",
+      "title": "不動産仲",
+      "paragraph": "私たちは、不動産取引業と金融商品取引業（第二種及び投資助言・代理業）の登録をしておりますので、不動産の売買、不動産信託受益権売買を取扱い",
       "breakTitle": "介業",
-      "breakParagraph": "ます。"
+      "breakParagraph": "できます。"
     },
     "item-2": {
       "title": "アセットマネジ",
@@ -55,37 +55,37 @@
       "breakParagraph": "きます。"
     },
     "item-3": {
-      "title": "ファイナンシャルアドバイ",
-      "paragraph": "私たちは、不動産開発、リノベーション及びノンリコースファイナンスに関して的確なアドバイスを行",
-      "breakTitle": "ザリー",
-      "breakParagraph": "います。"
+      "title": "ファイナンシャル",
+      "paragraph": "私たちは、不動産開発、リノベーション及びノンリコースファイナンスに関して的確なアドバイスを",
+      "breakTitle": "アドバイザリー",
+      "breakParagraph": "行います。"
     }
   },
   "wayInvest": {
-    "title": "サービ",
+    "title": "サービス",
     "item-1": {
       "title": "バリューアッド型マル",
       "titleBr": "チファミリ",
-      "paragraph": "私たちは、不動産賃貸料の増加が見込まれる中古かつ小規模な不動産に注目し",
+      "paragraph": "私たちは、不動産賃料の増加が見込まれる中古かつ小規模な不動産に注目し",
       "button": "お問い合わせ",
       "breakTitle": "ー物件投資",
-      "breakParagraph": "てます。"
+      "breakParagraph": "ています。"
     },
     "item-2": {
-      "title": "プロジェク",
-      "titleBr": "トファイ",
-      "paragraph": "資金調達を検討されているお客様にアドバイスいた",
+      "title": "プロジェクト",
+      "titleBr": "ファイ",
+      "paragraph": "資金調達を検討されているお客様にアドバイスい",
       "button": "お問い合わせ",
       "breakTitle": "ナンス",
-      "breakParagraph": "します。"
+      "breakParagraph": "たします。"
     },
     "item-3": {
       "title": "税務",
-      "titleBr": "スス",
-      "paragraph": "最適な投資スキームを実行することにより、利益の最大化を図",
+      "titleBr": "",
+      "paragraph": "最適なスキームを実行することにより、利益の最大化を",
       "button": "お問い合わせ",
-      "breakTitle": "キーム",
-      "breakParagraph": "ります。"
+      "breakTitle": "スキーム",
+      "breakParagraph": "図ります。"
     }
   },
   "testimonials": {
@@ -94,15 +94,15 @@
     "paragraph": "私たちは、常に「お客様ファースト」として純粋な心構えで業務に取組んで参ります。",
     "item-1": {
       "paragraph": "日本は島国であり、豊かな文化を有するがゆえに、様々なビジネス機会があります。私たちは、こういった機会に対して、現場の知見を基に解決してい",
-      "break":"きます。"
+      "break": "きます。"
     },
     "item-2": {
       "paragraph": "顧客は非常に満足しています。何よりも厳しく従う必要があり、それは快楽以上のものなので、快楽や苦痛から解放された体のお世辞で従うことができます。",
-      "break":"きます。"
+      "break": "きます。"
     },
     "item-3": {
       "paragraph": "顧客は非常に満足しています。何よりも厳しく従う必要があり、それは快楽以上のものなので、快楽や苦痛から解放された体のお世辞で従うことができます。",
-      "break":"きます。"
+      "break": "きます。"
     }
   },
   "footer": {
@@ -128,10 +128,11 @@
   },
   "about": {
     "title": "About Us",
-    "paragraph-1": "第二種金融商品取引業、投資助言代理業、宅地 建物取引業の登録をしている私たちは、日本に おける様々な不動産ニーズに対応するソリュー ションを提供する為の体制を構築してお",
-    "paragraph-2": "お客様に",
+    "paragraph-1": "私たちは、単なる不動産業者ではありません。お客様との取引が終了するまでお客様の立場で物事を考えております。結果は重要でありますが、私たちは節度を保ちながらもあきらめずにアプローチし続ける事がもっとも重要と考えて",
+    "paragraph-2": "第二種金融商品取引業、投資助言代理業、不動産取引業の登録をしている私たちは、日本における様々な不動産ニーズに対応するソリューションを提供するための体制を構築して",
     "button": "お問い合わせ",
-    "breakParagraph":"ります。"
+    "breakParagraph": "おります。",
+    "breakParagraph-2": "おります。"
   },
   "team": {
     "title": "チームメンバー",
@@ -170,25 +171,24 @@
       "title": "はじ",
       "paragraph": "元々はリーマンブラザーズの子会社とし",
       "break": "まり",
-      "breakParagraph":"て設立"
+      "breakParagraph": "て設立"
     },
     "item-2": {
       "title": "キャピタルリア",
       "paragraph": "カール・エベレットがMBOを行い、キャピタルリアルティに商",
       "break": "ルティ",
-      "breakParagraph":"号変更"
+      "breakParagraph": "号変更"
     },
     "item-3": {
       "title": "エボリューション・ファイナンシャル・グ",
       "paragraph": "マイケル・ラーチが買収しエボリューション・ファイナンシャルグループ",
       "break": "ループ",
-      "breakParagraph":"に参画"
-
+      "breakParagraph": "に参画"
     },
     "item-4": {
       "title": "株式会社YUDANERU",
       "paragraph": "2016年、MBOを実施。2023年、株式会社YUDANERUに商号変更、組",
-      "breakParagraph":"織再編"
+      "breakParagraph": "織再編"
     }
   },
   "overview": {
@@ -229,7 +229,7 @@
     },
     "item-8": {
       "title": "所属団体",
-      "paragraph": "一般社団法人日本投資顧問業協会、公益社団法人, 全日本不動",
+      "paragraph": "一般社団法人日本投資顧問業協会、公益社団法人全日本不動",
       "break": "産協会"
     },
     "item-9": {
@@ -267,83 +267,83 @@
     "title": "実績紹介",
     "item-1": {
       "title": "共同住宅",
-      "paragraphStrong-1": "1)所在:",
+      "paragraphStrong-1": "所在:",
       "paragraph-1": "文京区大塚",
-      "paragraphStrong-2": "2)用途:",
+      "paragraphStrong-2": "用途:",
       "paragraph-2": "共同住宅",
-      "paragraphStrong-3": "3)土地面積：",
+      "paragraphStrong-3": "土地面積：",
       "paragraph-3": "252 ㎡"
     },
     "item-2": {
       "title": "事務所兼住居",
-      "paragraphStrong-1": "1)所在:",
+      "paragraphStrong-1": "所在:",
       "paragraph-1": "神奈川県平塚市",
-      "paragraphStrong-2": "2)用途:",
+      "paragraphStrong-2": "用途:",
       "paragraph-2": "共同住宅、事務所、店舗",
-      "paragraphStrong-3": "3)土地面積：",
+      "paragraphStrong-3": "土地面積：",
       "paragraph-3": "588 ㎡"
     },
     "item-3": {
       "title": "共同住宅",
-      "paragraphStrong-1": "1)所在:",
+      "paragraphStrong-1": "所在:",
       "paragraph-1": "中央区日本橋人形町",
-      "paragraphStrong-2": "2)用途:",
+      "paragraphStrong-2": "用途:",
       "paragraph-2": "共同住宅",
-      "paragraphStrong-3": "3)土地面積：",
+      "paragraphStrong-3": "土地面積：",
       "paragraph-3": "188 ㎡"
     },
     "item-4": {
       "title": "オフィスコンプレックス",
-      "paragraphStrong-1": "1)所在:",
-      "paragraph-1": "大田区羽田",
-      "paragraphStrong-2": "2)用途:",
+      "paragraphStrong-1": "所在:",
+      "paragraph-1": "東京都 大田区羽田",
+      "paragraphStrong-2": "用途:",
       "paragraph-2": "店舗、共同住宅",
-      "paragraphStrong-3": "3)土地面積：",
+      "paragraphStrong-3": "土地面積：",
       "paragraph-3": "387 ㎡"
     },
     "item-5": {
       "title": "ホテル",
-      "paragraphStrong-1": "1)所在:",
+      "paragraphStrong-1": "所在:",
       "paragraph-1": "兵庫県尼崎市",
-      "paragraphStrong-2": "2)用途:",
+      "paragraphStrong-2": "用途:",
       "paragraph-2": "ホテル",
-      "paragraphStrong-3": "3)土地面積：",
+      "paragraphStrong-3": "土地面積：",
       "paragraph-3": "1168 ㎡"
     },
     "item-6": {
       "title": "共同住宅",
-      "paragraphStrong-1": "1)所在:",
+      "paragraphStrong-1": "所在:",
       "paragraph-1": "北海道虻田群ニセコ町 ",
       "paragraphStrong-2": "Hospitality:",
       "paragraph-2": "企業寮",
-      "paragraphStrong-3": "3)土地面積：",
+      "paragraphStrong-3": "土地面積：",
       "paragraph-3": "1958 ㎡"
     },
     "item-7": {
       "title": "店舗兼事務所",
-      "paragraphStrong-1": "1)所在:",
-      "paragraph-1": "港区南麻布",
-      "paragraphStrong-2": "2)用途:",
+      "paragraphStrong-1": "所在:",
+      "paragraph-1": "東京都 港区南麻布",
+      "paragraphStrong-2": "用途:",
       "paragraph-2": "店舗",
-      "paragraphStrong-3": "3)土地面積：",
+      "paragraphStrong-3": "土地面積：",
       "paragraph-3": "104 ㎡"
     },
     "item-8": {
       "title": "オフィスコンプレックス",
-      "paragraphStrong-1": "1)所在:",
+      "paragraphStrong-1": "所在:",
       "paragraph-1": "ベッドフォント レイクス、ウェスト ロンドン",
-      "paragraphStrong-2": "2)用途:",
+      "paragraphStrong-2": "用途:",
       "paragraph-2": "オフィス・ビジネスパーク",
-      "paragraphStrong-3": "3)土地面積：",
+      "paragraphStrong-3": "土地面積：",
       "paragraph-3": "374,046平方フィート"
     },
     "item-9": {
       "title": "オフィスコンプレックス",
-      "paragraphStrong-1": "1)所在:",
+      "paragraphStrong-1": "所在:",
       "paragraph-1": "ベッドフォント レイクス、ウェスト ロンドン",
-      "paragraphStrong-2": "2)用途:",
+      "paragraphStrong-2": "用途:",
       "paragraph-2": "オフィス・ビジネスパーク",
-      "paragraphStrong-3": "3)土地面積：",
+      "paragraphStrong-3": "土地面積：",
       "paragraph-3": "374,046平方フィート"
     }
   },
@@ -359,8 +359,8 @@
       "title": "連絡先",
       "paragraph": "お客様のお役に立つことができ、大変光栄です。何かございましたら、お気軽にお申し付けく",
       "location": "東京都千代田区平河町2-5-3永田町GRID2F",
-      "breakTitle":"情報",
-      "breakParagraph":"ださい。"
+      "breakTitle": "情報",
+      "breakParagraph": "ださい。"
     }
   },
   "policy": {
@@ -418,9 +418,10 @@
       "list-9": "1)お客様ご本人の同意がある場合",
       "list-10": "2)法令に基づき要請される場合",
       "list-11": "3)当社が業務遂行上必要な範囲で、業務委託先に提供する場合。当社が、外部に個人情報の取扱いを委託する場合には、委託先の選定基準を定め、あらかじめ委託先における適切な安全管理措置が確保されるよう、必要かつ適切な監督を行います。",
+      "paragraph-5.5":"当社は、個人情報の取扱いを第三者に委託する場合には、委託先の選定基準を定め、委託先において事前に適切な安全管理措置が講じられるよう必要かつ適切な監督を行います。",
       "paragraphTitle-6": "5.個人情報の安全管理",
       "paragraph-6": "当社は、個人情報の取扱いにあたって、適切な安全管理上の措置を講じ、個人情報の保護に必要かつ適切な体制を整備いたします。また、全従業員に対し個人情報の保護の取扱いに関して指導・教育を継続的に実施いたします。",
-      "paragraphTitle-7": "66.個人情報の開示・訂正・削除等に関する手続き",
+      "paragraphTitle-7": "6.個人情報の開示・訂正・削除等に関する手続き",
       "paragraph-7": "当社は、個人情報の開示・訂正等(訂正、追加および削除)、消去、利用停止、第三者提供の停止等の請求があった場合には、請求者がご本人であることを確認させていただいた上、適切かつ迅速に対応いたします。代理人による請求の場合、本人の請求があること、代理人が代理権限を有することを確認するため、「個人情報の開示等請求書」「委任状」をご提出いただきます。なお、開示手数料は、開示1件につき 1,000 円(消費税込み)とさせて頂きます。具体的な手続き方法その他については下記記載の「７.個人情報の相談等の窓口」までご連絡ください。",
       "paragraphTitle-8": "利用目的",
       "paragraph-8": "1) 当社の個人情報の取扱いに関する苦情・ご質問については、これを適切に対処させていただくこととし、以下の当社お問い合わせ窓口にてお受けしております。",
@@ -430,10 +431,10 @@
       "paragraph-11": "(受付時間：[平日]午前１０時～午後５時)  ",
       "paragraphTitle-12": "（受付時間：[平日]午前１０時～午後５時",
       "paragraph-12": "8.本方針の改訂",
-      "paragraph-13": "附　則　この方針は、平成２７年５月２５日より施行する 令和５年２月１日　改定",
+      "paragraph-13": "附　則　この方針は、平成２７年５月２５日より施行する ",
+      "paragraph-13.5": "　　　　令和５年２月１日　改定",
       "paragraph-14": "「このプライバシー ポリシーでは、識別された、または識別可能な個人に関連する情報 (このプライバシー ポリシーでは「個人データ」と呼ばれます) を Yudaneru がどのように収集、使用、開示するか、およびこの活動に関してお客様にどのような選択肢があるかについて説明します。 ご質問がございましたら、お気軽にお問い合わせください。」"
     },
-
     "item-4": {
       "title": "反社会的勢力に対する基本方針",
       "paragraph-1": "当社は、資本市場の健全性・公平性の確保及び役職員の安全確保のために、次のとおり反社会的勢力に対する基本方針を定め、公表いたします。",
@@ -467,7 +468,7 @@
       "list-6": "3. お客様と会員業者との話し合いと解決",
       "paragraph-10": "会員業者への苦情の取次ぎ",
       "paragraph-11": "特定非営利活動法人 証券・金融商品あっせん相談センター(FINMAC)",
-      "paragraph-12": "電　話 0123-64-5005(フリーダイヤル)(月～金／９：００～１７：００　祝日等を除く)",
+      "paragraph-12": "電　話 0120-64-5005(フリーダイヤル)(月～金／９：００～１７：００　祝日等を除く)",
       "paragraphTitle-13": "2.当社の紛争解決について",
       "paragraph-13": "FINMACによる紛争解決",
       "paragraph-14": "当社は、FINMACが行うあっせんを通じて紛争の解決を図ります。",
@@ -486,8 +487,8 @@
       "list-11": "5) あっせん案の提示、受諾",
       "paragraph-22": "FINMACの相談窓口",
       "paragraph-23": "特定非営利活動法人 証券・金融商品あっせん相談センター(FINMAC)",
-      "paragraph-24": "特定非営利活動法人 証券・金融商品あっせん相談センター(FINMAC)",
-      "paragraph-25": "電　話 ０１２０－６４－５００５（フリーダイヤル） （月～金／９：００～１７：００　祝日等を除く）",
+      "paragraph-24": "電　話 ０１２０－６４－５００５（フリーダイヤル）",
+      "paragraph-25": "（月～金／９：００～１７：００　祝日等を除く）",
       "paragraph-26": "※苦情解決及び紛争解決のお申出をされる場合には、お客さまの個人情報(氏名、連絡先、相談・苦情の内容等)を当社又は特定非営利活動法人　証券・金融商品あっせん相談センター(FINMAC)にご提供していただく必要がございますのでご了承下さい。",
       "paragraphStrong": "Nam veritatis consequatur est omnis debitis At consequatur earum:"
     },

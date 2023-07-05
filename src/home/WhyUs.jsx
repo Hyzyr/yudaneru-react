@@ -1,5 +1,6 @@
 import React from "react";
 
+
 const WhyUs = ({ strings }) => {
   return (
     <section className="whyUs">
@@ -39,9 +40,9 @@ const WhyUs = ({ strings }) => {
               <span className="noBreak">{strings.breakTitle}</span>
             </h2>
             <p>{strings.paragraph}
-            <span className="noBreak">
-                  {strings.breakParagraph}
-                  </span>
+              <span className="noBreak">
+                {strings.breakParagraph}
+              </span>
             </p>
             <ul className="whyUs__list">
               <li className="whyUs__list-item">
@@ -50,16 +51,17 @@ const WhyUs = ({ strings }) => {
                     src="/images/illustrations/chooseUsIcon-1.png"
                     alt="chooseUsIcon-1"
                   />
+
                 </div>
                 <h4 className="_sm">
-                <span className="noBreak">
-                {strings["item-1"].breakTitle}
-                </span>
+                  <span className="noBreak">
+                    {strings["item-1"].breakTitle}
+                  </span>
                 </h4>
                 <p>
                   {strings["item-1"].paragraph}
                   <span className="noBreak">
-                  {strings["item-1"].breakParagraph}
+                    {strings["item-1"].breakParagraph}
                   </span>
                 </p>
               </li>
@@ -71,11 +73,11 @@ const WhyUs = ({ strings }) => {
                   />
                 </div>
                 <h4 className="_sm">{strings["item-3"].title}
-                {strings["item-3"].breakTitle}
+                  {strings["item-3"].breakTitle}
                 </h4>
                 <p>{strings["item-3"].paragraph}
-                <span className="noBreak">
-                  {strings["item-3"].breakParagraph}
+                  <span className="noBreak">
+                    {strings["item-3"].breakParagraph}
                   </span>
                 </p>
               </li>
@@ -87,12 +89,12 @@ const WhyUs = ({ strings }) => {
                   />
                 </div>
                 <h4 className="_sm">{strings["item-2"].title}
-                {strings["item-2"].breakTitle}
-                
+                  {strings["item-2"].breakTitle}
+
                 </h4>
                 <p>{strings["item-2"].paragraph}
-                <span className="noBreak">
-                  {strings["item-2"].breakParagraph}
+                  <span className="noBreak">
+                    {strings["item-2"].breakParagraph}
                   </span>
                 </p>
               </li>

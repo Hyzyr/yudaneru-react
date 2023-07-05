@@ -9,7 +9,7 @@
   "hero": {
     "caption": "FIND WHAT YOU NEED",
     "title": "Fully Invested in Your Objectives ",
-    "paragraph": "As a licensed real estate asset manager in Japan, we understand the complexities of navigating this market, won’t you let us help you?",
+    "paragraph": "As a licensed real estate asset manager in Japan, we understand the complexities of navigating the Japanese real estate topography. Let us discuss your needs to provide a tailored solution to achieve your investment objective.",
     "button": "Contact Us"
   },
   "whyUs": {
@@ -21,7 +21,7 @@
     },
     "item-2": {
       "title": "Perseverant",
-      "paragraph": "Rarely do things ever go according to plan, but do you have the resolve to finish, we think we do "
+      "paragraph": "We must execute according to a meticulous strategy and a tactical plan that achieves your goals – yet we believe the key to a successful business is the ability to adapt, persevere, and overcome when the unforeseen happens.  "
     },
     "item-3": {
       "title": "Tailored",
@@ -44,7 +44,7 @@
     }
   },
   "wayInvest": {
-    "title": "Ways to Invest",
+    "title": "Services",
     "item-1": {
       "title": "Value Add",
       "titleBr": "Investment",
@@ -190,7 +190,7 @@
     },
     "item-8": {
       "title": "Memberships",
-      "paragraph": "Japan Investment Advisers Association"
+      "paragraph": "Japan Investment Advisers Association , All Japan Real Estate Association"
     },
     "item-9": {
       "title": "Registrations, licenses, etc.",
@@ -226,83 +226,83 @@
     "title": "A selection of our work",
     "item-1": {
       "title": "Multifamily Asset",
-      "paragraphStrong-1": "1)LOCATION:",
+      "paragraphStrong-1": "LOCATION:",
       "paragraph-1": "Otsuka, Bunkyo ku, Tokyo",
-      "paragraphStrong-2": "2)SECTOR:",
+      "paragraphStrong-2": "SECTOR:",
       "paragraph-2": "Multifamily",
-      "paragraphStrong-3": "3)SIZE:",
+      "paragraphStrong-3": "SIZE:",
       "paragraph-3": "252 ㎡"
     },
     "item-2": {
       "title": "Mixed Use Asset",
-      "paragraphStrong-1": "1)LOCATION:",
+      "paragraphStrong-1": "LOCATION:",
       "paragraph-1": "Akashi chou, Hiratsuka shi, Kanagawa",
-      "paragraphStrong-2": "2)SECTOR:",
+      "paragraphStrong-2": "SECTOR:",
       "paragraph-2": "Multifamily, Office, Retail",
-      "paragraphStrong-3": "3)SIZE:",
+      "paragraphStrong-3": "SIZE:",
       "paragraph-3": "588 ㎡"
     },
     "item-3": {
       "title": "Multifamily Asset",
-      "paragraphStrong-1": "1)LOCATION:",
+      "paragraphStrong-1": "LOCATION:",
       "paragraph-1": "Nihonbashi Tomizawa cho, Chuo ku, Tokyo",
-      "paragraphStrong-2": "2)SECTOR:",
+      "paragraphStrong-2": "SECTOR:",
       "paragraph-2": "Multifamily",
-      "paragraphStrong-3": "3)SIZE:",
+      "paragraphStrong-3": "SIZE:",
       "paragraph-3": "188 ㎡"
     },
     "item-4": {
       "title": "Mixed Use Asset",
-      "paragraphStrong-1": "1)LOCATION:",
+      "paragraphStrong-1": "LOCATION:",
       "paragraph-1": "Haneda, Ota ku, Tokyo",
-      "paragraphStrong-2": "2)SECTOR:",
+      "paragraphStrong-2": "SECTOR:",
       "paragraph-2": "Multifamily, Retail",
-      "paragraphStrong-3": "3)SIZE:",
+      "paragraphStrong-3": "SIZE:",
       "paragraph-3": "387 ㎡"
     },
     "item-5": {
       "title": "Hospitality Asset",
-      "paragraphStrong-1": "1)LOCATION:",
+      "paragraphStrong-1": "LOCATION:",
       "paragraph-1": "Showa Minamidori, Amagasaki, Hyogo ",
-      "paragraphStrong-2": "2)SECTOR:",
+      "paragraphStrong-2": "SECTOR:",
       "paragraph-2": "Hospitality",
-      "paragraphStrong-3": "3)SIZE:",
+      "paragraphStrong-3": "SIZE:",
       "paragraph-3": "1168 ㎡"
     },
     "item-6": {
       "title": "Multifamily Asset",
-      "paragraphStrong-1": "1)LOCATION:",
+      "paragraphStrong-1": "LOCATION:",
       "paragraph-1": "Niseko cho, Abuta gun, Hokkaido",
-      "paragraphStrong-2": "2)SECTOR:",
+      "paragraphStrong-2": "SECTOR:",
       "paragraph-2": "Corporate Dormitory",
-      "paragraphStrong-3": "3)SIZE:",
+      "paragraphStrong-3": "SIZE:",
       "paragraph-3": "1958 ㎡"
     },
     "item-7": {
       "title": "Retail Asset",
-      "paragraphStrong-1": "1)LOCATION:",
+      "paragraphStrong-1": "LOCATION:",
       "paragraph-1": "Minami Azabu, Minato ku, Tokyo",
-      "paragraphStrong-2": "2)SECTOR:",
+      "paragraphStrong-2": "SECTOR:",
       "paragraph-2": "Food & Beverage",
-      "paragraphStrong-3": "3)SIZE:",
+      "paragraphStrong-3": "SIZE:",
       "paragraph-3": "104 ㎡"
     },
     "item-8": {
       "title": "Office Complex",
-      "paragraphStrong-1": "1)LOCATION:",
+      "paragraphStrong-1": "LOCATION:",
       "paragraph-1": "Bedfont Lakes, West London",
-      "paragraphStrong-2": "2)SECTOR:",
+      "paragraphStrong-2": "SECTOR:",
       "paragraph-2": "Office / Business Park",
-      "paragraphStrong-3": "3)SIZE:",
+      "paragraphStrong-3": "SIZE:",
       "paragraph-3": "374,046 sq ft"
     },
     "item-9": {
       "title": "Office Complex",
-      "paragraphStrong-1": "1)LOCATION:",
+      "paragraphStrong-1": "LOCATION:",
       "paragraph-1": "Bedfont Lakes, West London",
-      "paragraphStrong-2": "2)SECTOR:",
+      "paragraphStrong-2": "SECTOR:",
       "paragraph-2": "Office / Business Park",
-      "paragraphStrong-3": "3)SIZE:",
+      "paragraphStrong-3": "SIZE:",
       "paragraph-3": "374,046 sq ft"
     }
   },
@@ -328,7 +328,6 @@
       "tab-3": "Anti-Social Forces Policy",
       "tab-4": "Dispute Handling Policy",
       "tab-5":"Financial Instruments and Exchange Law Explanatory Items"
-
     },
     "item-1": {
       "title": "Policy",
@@ -339,9 +338,9 @@
     "item-2": {
       "title": "Solicitation Policy",
       "subtitle": "Pursuant to Article 10 of the Act on the Provision of Financial Services, we have established and publicly announced our solicitation policy for sales of financial products as follows.",
-      "paragraph-1": "Basic stance on solicitation (matters to be taken into consideration in light of the knowledge, experience and status of property of the person subject to the solicitation of sales, and the purpose for the conclusion of the contract pertaining to the sale of the financial instruments.)",
-      "paragraph-2": "1.The Company shall endeavor to provide appropriate advice and explanations in light of the customer's knowledge, investment experience, financial situation, and investment objectives.",
-      "paragraph-2.5": "1) Pursuant to Article 10 of the Act on the Provision of Financial Services, we have established and publicly announced our solicitation policy for sales of financial products as follows",
+      "paragraph-1": "Matters to be taken into consideration in light of the knowledge, experience and status of property of the person subject to the solicitation of sales, and the purpose for the conclusion of the contract pertaining to the sale of the financial instruments.",
+      "paragraph-2": "Pursuant to Article 10 of the Act on the Provision of Financial Services, we have established and publicly announced our solicitation policy for sales of financial products as follows.",
+      "paragraph-2.5":"1) Pursuant to Article 10 of the Act on the Provision of Financial Services, we have established and publicly announced our solicitation policy for sales of financial products as follows",
       "paragraph-3": "2) The Company will endeavor to provide advice and explanations based on appropriate methods regarding important matters such as product details, risk details, and commissions in order for clients to trade at their own discretion and responsibility. ",
       "paragraph-4": "3) The Company will not provide customer with definitive judgments or information that is not true.",
       "paragraph-5": "Matters to be taken into consideration for the person subject to the solicitation of sales with regard to the means and timing of solicitation of sales.",
@@ -356,7 +355,7 @@
       "titleSmall": "What Information do we Collect?",
       "paragraph-1": "YUDANERU Inc. (hereinafter referred to as 'YUDANERU') is committed to ensuring compliance with the 'Protection of Personal Information Act' and other laws, regulations, and rules related to the protection of Personal Information, including the Guideline for the Protection of Personal Information Act. We will make this policy known to all of our directors, employees, and anyone else engaged in our business operations, and will strive to protect Personal Information appropriately in accordance with this policy.",
       "paragraphTitle-2": "1. Proper Acquisition of Personal Information",
-      "paragraph-2": "To the extent necessary for our business, in the process of providing our services, we will use legal and appropriate means to acquire Personal Information about individual customers as well as persons related to any group clientele.  This information will be acquired in relation to the following purposes.",
+      "paragraph-2": "To the extent necessary for our business, in the process of providing our services, we will use legal and appropriate means to acquire Personal Information about individual customers as well as persons related to any group clientele. This information will be acquired in relation to the following purposes.",
       "paragraphTitle-3": "2. Purpose of Use",
       "paragraph-3": "We will use Personal Information only within the scope necessary to achieve the following purposes of use in connection with the following businesses of ours, except as otherwise provided by law.",
       "listTitle-1": "Description of Business",
@@ -375,18 +374,19 @@
       "paragraph-5": "We will not provide Personal Information to third parties except in the following cases",
       "list-9": "1) When the customer has given consent",
       "list-10": "2) When required by law",
-      "list-11": "3) When the Company provides Personal Information to a subcontractor to the extent necessary for the performance of its business operations. In the event that we outsource the handling of Personal Information to a third party, we will establish criteria for the selection of the outsourced company and conduct necessary and appropriate supervision to ensure that appropriate security control measures are taken by the outsourced company in advance.",
+      "list-11": "3) When the Company provides Personal Information to a subcontractor to the extent necessary for the performance of its business operations.",
+      "paragraph-5.5": "In the event that we outsource the handling of Personal Information to a third party, we will establish criteria for the selection of the outsourced company and conduct necessary and appropriate supervision to ensure that appropriate security control measures are taken by the outsourced company in advance.",
       "paragraphTitle-6": "5. Security control of Personal Information",
       "paragraph-6": "In handling Personal Information, we take appropriate security control measures, maintain a necessary and appropriate system for the protection of Personal Information.",
       "paragraphTitle-7": "6. Procedures for Disclosure, Correction, Deletion, etc. of Personal Information",
-      "paragraph-7": "Upon receiving a request for disclosure, correction, etc. (correction, addition, or deletion), elimination, suspension of use, or suspension of provision to a third party of Personal Information, we will respond appropriately and promptly after confirming the identity of the person making such a request.  In the case of a request by a representative, the 'Request Form for Disclosure of Personal Information' and 'Letter of Proxy' must be submitted to confirm that the request is made by the principal and that the representative has the authority to act on behalf of the principal.  A disclosure fee of 1,000 yen (including consumption tax) will be charged per disclosure. Please contact the 'Personal Information Consultation Desk' below for specific procedures and other information. ",
-      "paragraphTitle-8": "Purpose of use",
+      "paragraph-7": "Upon receiving a request for disclosure, correction, etc. (correction, addition, or deletion), elimination, suspension of use, or suspension of provision to a third party of Personal Information, we will respond appropriately and promptly after confirming the identity of the person making such a request. In the case of a request by a representative, the 'Request Form for Disclosure of Personal Information' and 'Letter of Proxy' must be submitted to confirm that the request is made by the principal and that the representative has the authority to act on behalf of the principal. A disclosure fee of 1,000 yen (including consumption tax) will be charged per disclosure. Please contact the 'Personal Information Consultation Desk' below for specific procedures and other information.",
+      "paragraphTitle-8": "Contact for Personal Information Consultation, etc.",
       "paragraph-8": "1) Complaints and questions regarding the handling of personal information by the Company will be dealt with appropriately, and are received at the contact point of the Company below.",
       "paragraph-8.5": "2)We will use it to provide useful information related to all the businesses that our company conducts.",
       "paragraph-9": "Contact for Inquiries",
       "paragraph-10": "Phone 03-4510-3380",
       "paragraph-11": "(Hours of operation: weekdays from 10:00 a.m. to 5:00 p.m.) ",
-      "paragraphTitle-12": "(Hours of operation: weekdays from 10:00 a.m. to 5:00 p.m.) ",
+      "paragraphTitle-12": "(Monday through Friday, 10:00 a.m. to 5:00 p.m., excluding national holidays)",
       "paragraph-12": "This policy is subject to revision due to changes in laws and regulations or other reasons.",
       "paragraph-13": "Supplementary Provisions: This policy shall come into effect as of May 25, 2023",
       "paragraph-14": "This Privacy Policy describes how Yudaneru collects, uses, and discloses information associated with an identified or identifiable individual (referred to in this Privacy Policy as “Personal Data”) and what choices you have around this activity. If you have any questions, please don’t hesitate to contact us."
@@ -402,15 +402,16 @@
     },
     "item-5": {
       "title": "Dispute Handling Policy",
-      "paragraphTitle-1": "１. Complaint handling by the Company",
+      "paragraphTitle-1": "Complaint handling by the Company",
       "paragraph-1": "We have established 'Complaint and Dispute Handling Regulations' and are committed to responding to our customer’s complaints in an appropriate manner to better understand their needs.",
       "listTitle-1": "The standard flow of complaint resolution by the Company is as follows: ",
       "list-1": "1) Receipt of complaints, etc. from customers",
       "list-2": "2) Interviews with personnel in charge and consideration of proposed solutions",
       "list-3": "3) Presenting solutions and resolving the complaint",
       "paragraph-2": "Consultation on Complaints, etc. Concerning the Financial Instruments Business",
-      "paragraph-3": "Compliance Desk Phone number：03－4510-3380",
-      "paragraph-4": "(Monday through Friday, 10:00 a.m. to 5:00 p.m. excluding national holidays) ",
+      "paragraph-3": "Compliance Desk",
+      "paragraph-3.5": "Phone 03-4510-3380",
+      "paragraph-4": "(Monday through Friday, 10:00 a.m. to 5:00 p.m., excluding national holidays)",
       "paragraph-5": "For complaint resolution, contact Financial Instruments Mediation Assistance Center (FINMAC). The Company will also attempt to resolve complaints through Financial Instruments Mediation Assistance Center (FINMAC).",
       "paragraph-6": "T The Company will also attempt to resolve complaints through Financial Instruments Mediation Assistance Center (FINMAC).",
       "paragraphTitle-7": "Investment Advisory and Agency Business",
@@ -418,21 +419,22 @@
       "paragraphTitle-8": "Type II Financial Instruments Business",
       "paragraph-8": "Measures to use FINMAC as an Individual",
       "paragraph-9": "If you wish to use FINMAC to resolve a complaint with us, please contact the 'FINMAC Consultation Desk' below.",
-      "listTitle-4": "(The standard flow of steps taken by FINMAC to resolve complaints is as follows:)",
+      "listTitle-4": "The standard flow of steps taken by FINMAC to resolve complaints is as follows:",
       "list-4": "1) Filing a complaint by a customer",
       "list-5": "2) Refer the complaint to a member company",
       "list-6": "3) Discussion and resolution between the customer and the member company",
       "paragraph-10": "FINMAC Consultation Service",
       "paragraph-11": "Financial Instruments Mediation Assistance Center (FINMAC)",
+      "paragraph-11.5": "Phone 0120-64-5005 (toll free)",
       "paragraph-12": "(Monday through Friday, 9:00 a.m. to 5:00 p.m., excluding national holidays)",
-      "paragraphTitle-13": "About dispute resolution by the Company",
+      "paragraphTitle-13": "Dispute Resolution by the Company",
       "paragraph-13": "Dispute Resolution by FINMAC",
       "paragraph-14": "We seek to resolve disputes through mediation conducted by FINMAC.",
       "paragraph-15": "Investment Advisory and Agency Business",
-      "paragraph-16": "Business entrusted to FINMAC by the Japan Investment Advisers Association",
+      "paragraph-16": "Japan Investment Advisers Association entrusted FINMAC with the complaint resolution business.",
       "paragraph-17": "Type II Financial Instruments Business",
       "paragraph-18": "See Measures to use FINMAC as an Individual.",
-      "paragraph-19": "Disputes are resolved through mediation procedures by FINMAC's mediation committee members.",
+      "paragraph-19": "Disputes are resolved through mediation procedures by FINMAC's mediation committee members.  If you wish to use FINMAC to resolve a dispute with us, please contact the 'FINMAC Consultation Service'.",
       "paragraph-20": "If you wish to use FINMAC to resolve a dispute with us, please contact the 'FINMAC Consultation Service'..",
       "paragraph-21": "The following is the standard flow for dispute resolution conducted by FINMAC. For more information, please contact FINMAC.",
       "listTitle-7":"Mediation Process",
@@ -441,10 +443,9 @@
       "list-9": "3) Payment of the mediation fee by the customer",
       "list-10": "4) Hearing of the customer and member companies by the mediation committee",
       "list-11": "5) Presentation and acceptance of mediation proposal",
-
       "paragraph-22": "FINMAC Consultation Service",
       "paragraph-23": "Financial Instruments Mediation Assistance Center (FINMAC)",
-      "paragraph-24": "Telephone 0120-64-5005 (toll free)",
+      "paragraph-24": "Phone 0120-64-5005 (toll free)",
       "paragraph-25": "(Monday through Friday, 9:00 a.m. to 5:00 p.m., excluding national holidays)",
       "paragraph-26": "※Please be aware that you will be required to provide us or the Financial Instruments Mediation Assistance Center (FINMAC) with your personal information (name, contact information, details of consultation/complaint, etc.) when requesting complaint resolution or dispute resolution.",
       "paragraphStrong": "Nam veritatis consequatur est omnis debitis At consequatur earum:"

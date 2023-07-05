@@ -8,6 +8,7 @@ const SwithLang = ({ strings }) => {
   }, []);
   useEffect(() => {
     strings.setLanguage(active ? "en" : "jp");
+    
   }, [active]);
 
   return (

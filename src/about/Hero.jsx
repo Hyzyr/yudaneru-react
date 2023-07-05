@@ -14,6 +14,7 @@ const Hero = ({ strings }) => {
               <br />
               <br />
               {strings["paragraph-2"]}
+              <span className="noBreak">{strings["breakParagraph-2"]}</span>
             </p>
             <Link to="/contact-us" className="button button--primary">
               {strings.button}
